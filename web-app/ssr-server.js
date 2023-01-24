@@ -56,9 +56,11 @@ app.use('/favicon.ico', express.static('./static-assets/favicon.ico'));
 app.use(express.static('static-assets'));
 
 function responseWithSourceCode(req, res, apiData, templateName) {
+
+  
   // make APP data available for SSR and browser.
   global.__API_DATA__ = apiData;
-  const Html = templateList[templateName];
+  const Html = templateList[req.template];
 
   // Prepare to get list of all modules that have to be loaded for this route
   let modules = [];
@@ -155,7 +157,7 @@ app.get('/weather-services/*', async (req, res) => {
 // #############################################################
 app.get('/*', 
   function (req, res, next) {
-    requestDataFromAPI(req, res, devicesData, usersData, next);
+    requestDataFromAPI(req, res, usersData, next);
   },
   function (req, res, next) {
     responseWithSourceCode(req, res, req.apiData, req.templateName);

@@ -21,7 +21,30 @@ export default {
         ] 
       }         
     ]    
-  }, 
+  },
+  '/test' : {
+    template: "Html",              
+    layout: [ 
+      {
+        span: 12,
+        components: [
+          {
+            name: "Header",
+            props: {}
+          }
+        ]
+      },
+      {
+        span: 12,
+        components:[
+          {
+            name: "Words",
+            props: {}
+          }
+        ] 
+      },        
+    ]
+  },  
   '/home' : {
     template: "Html",              
     layout: [ 

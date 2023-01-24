@@ -1,5 +1,6 @@
 import Loadable from 'react-loadable';
 import Loading from '../../../components/Loading';
+
 /* Components */
 const Header = Loadable({
   loader: () => import ('../../../components/Header'),
@@ -29,6 +30,11 @@ const Account = Loadable({
   loader: () => import ('../../../components/Account'),
   loading: Loading
 });
+const Words = Loadable({
+  loader: () => import ('../../../components/Words'),
+  loading: Loading
+});
+
 export default {
   Home,
   About,
@@ -36,5 +42,6 @@ export default {
   Header,
   SignIn,
   SignOut,
-  Account
+  Account,
+  Words
 }

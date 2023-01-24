@@ -17,42 +17,13 @@ class PageLayout extends Component {
 
       if(typeof window === 'undefined') {
         // server side 
-        /*
-        if(this.props.apiData?.error === 1 ) {
-          // url = '/sign-in';
-          this.cookies.remove('user');
-          return  <div key='{id}' className={styles.error}>Internal server error!</div>
-        }
-        const userString = this.props.serverCookies.user;
-        const user = typeof userString === 'undefined' ? undefined : JSON.parse(userString);
-        const hubId = typeof user?.deviceHubs === 'undefined' || user?.deviceHubs.length === 0  ? undefined : user?.deviceHubs[0];
-        if(url !== '/sign-in' && typeof user === 'undefined')  {
-          url = '/sign-in';
-        }
-        */
 
       } else {
-        // client side
-        // const user =  this.cookies.get('user');
-        // const hubId = typeof user?.deviceHubs === 'undefined' || user?.deviceHubs.length === 0  ? undefined : user?.deviceHubs[0];
-
-        /*
-        if(url !== '/setup') {
-          if(url !== '/sign-in') {
-            console.log("###### user :", user);          
-            if(typeof user === 'undefined') {              
-              url = '/sign-in';
-            }
-          }
-          else if(typeof hubId !== 'undefined') {
-            //location.href = `/home?data=["${hubId}"]`;
-          }
-        }
-        */
-       
+        // client side       
         window.__API_DATA__.url = url;
       }
       const page = PageData[url];
+      const template = page.template || "template-not-found"
 
       const allLayout = page.layout.map((layoutList) => {
         const layout = layoutList.components.map((component, id , components) => {          
