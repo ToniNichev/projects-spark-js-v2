@@ -30,7 +30,7 @@ if(typeof window !== 'undefined') {
 }
 
 
-function Words() {
+function Setup() {
 
   const [notAvailableModalVisible, setNotAvailableModalVisible] = useState(true);
 
@@ -51,5 +51,5 @@ function Words() {
   </div>);
 }
 
-export { Words }
-export default Words;
+export { Setup }
+export default Setup;

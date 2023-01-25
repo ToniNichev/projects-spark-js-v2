@@ -19,7 +19,11 @@ const Setup = Loadable({
   loading: Loading
 });
 const Words = Loadable({
-  loader: () => import ('../../../components/Words'),
+  loader: () => import ('../../../pageComponents/Words'),
+  loading: Loading
+});
+const LeftRail = Loadable({
+  loader: () => import ('../../../pageComponents/LeftRail'),
   loading: Loading
 });
 
@@ -28,5 +32,6 @@ export default {
   About,
   Setup,
   Header,
-  Words
+  Words,
+  LeftRail
 }

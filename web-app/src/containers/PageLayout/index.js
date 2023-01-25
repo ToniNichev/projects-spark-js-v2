@@ -23,9 +23,10 @@ class PageLayout extends Component {
         window.__API_DATA__.url = url;
       }
       const page = PageData[url];
-      const template = page.template || "template-not-found"
+      const template = page.template || "template-not-found";
 
       const allLayout = page.layout.map((layoutList) => {
+        const span = layoutList.span;
         const layout = layoutList.components.map((component, id , components) => {          
           const componentName = component.name;    
           const props = component.props;    

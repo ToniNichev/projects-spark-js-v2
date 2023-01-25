@@ -22,7 +22,7 @@ export default {
       }         
     ]    
   },
-  '/test' : {
+  '/words' : {
     template: "Html",              
     layout: [ 
       {
@@ -40,7 +40,11 @@ export default {
           {
             name: "Words",
             props: {}
-          }
+          },
+          {
+            name: "LeftRail",
+            props: {}
+          },          
         ] 
       },        
     ]
