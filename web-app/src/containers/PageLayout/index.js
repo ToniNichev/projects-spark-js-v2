@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import ComponentList from './ComponentList';
 import PageData from './PageData';
 import Cookies from 'universal-cookie';
-const styles = require('./styles.scss');
+import styles from './styles.scss';
 
 class PageLayout extends Component {
 

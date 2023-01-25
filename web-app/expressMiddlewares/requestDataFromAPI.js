@@ -25,17 +25,14 @@ const sendResponse = (res, responseString) => {
  * @param {*} next 
  * @returns 
  */
-const requestDataFromAPI = async (req, res, usersData, next) => {  
+const requestDataFromAPI = async (req, res, usersData, next) => { 
+
   req.parsedUrl = url.parse(req.url);
   req.pathname = req.parsedUrl.pathname;
-  req.template = PageData[req.pathname].template;
+  req.template = PageData[req.pathname]?.template || null;
   req.parsedQs = querystring.parse(req.parsedUrl.query);
-
-  //const validDataObj = stringToObject(parsedQs.data); // device(s) ids 
-
-  // shortcut to run setup without credentials !!! REMOVE IT ONCE DONE !
-  //req.templateName = 'Html'; 
   req.apiData = {};
+  
   next();
 
 }

@@ -20,6 +20,7 @@ import weatherServices from './expressMiddlewares/WeatherServices';
 import queries from './src/queries';
 import bodyParser from 'body-parser';
 
+
 const {APP_HOST, SERVER_PORT, ENVIRONMENT} = process.env;
 let test = null;
 

@@ -109,10 +109,10 @@
 /*!*************************************!*\
   !*** ./dist/loadable-manifest.json ***!
   \*************************************/
-/*! exports provided: @babel/runtime/helpers/asyncToGenerator, ../helpers/regeneratorRuntime, @babel/runtime/regenerator, ./arrayLikeToArray.js, ./arrayWithHoles.js, ./iterableToArrayLimit.js, ./nonIterableRest.js, @babel/runtime/helpers/slicedToArray, ./unsupportedIterableToArray.js, !!../../../node_modules/css-loader/dist/cjs.js??ref--5-1!../../../node_modules/postcss-loader/src/index.js??ref--5-2!../../../node_modules/sass-loader/dist/cjs.js??ref--5-3!./styles.scss, ../GeneralPopup, ./styles.scss, ../../containers/EventsManager, ./arrayWithoutHoles.js, @babel/runtime/helpers/defineProperty, ./iterableToArray.js, ./nonIterableSpread.js, @babel/runtime/helpers/toConsumableArray, !!../../../../node_modules/css-loader/dist/cjs.js??ref--5-1!../../../../node_modules/postcss-loader/src/index.js??ref--5-2!../../../../node_modules/sass-loader/dist/cjs.js??ref--5-3!./styles.scss, ../BulletPoint, ../Dialer, ../EditDelete, ./AddPopup, ../../../components/Home, ../MessagePopup, ../RangeSlider, ../TemperatureBar, ../ToggleSwitch, ../../utils/Poster, ../../utils/getParams, ./home.png, ../../../components/Setup, ../../../components/Words, ../../../components/Account, ../../../components/SignIn, ../../../components/SignOut, ../../../components/About, ../../../components/Header, undefined, ./assertThisInitialized.js, @babel/runtime/helpers/classCallCheck, @babel/runtime/helpers/createClass, @babel/runtime/helpers/esm/extends, @babel/runtime/helpers/esm/inheritsLoose, @babel/runtime/helpers/esm/objectWithoutPropertiesLoose, ./setPrototypeOf.js, @babel/runtime/helpers/extends, @babel/runtime/helpers/getPrototypeOf, @babel/runtime/helpers/inherits, @babel/runtime/helpers/possibleConstructorReturn, ./toPrimitive.js, ./toPropertyKey.js, ./typeof.js, ansi-html-community, ../../../node_modules/css-loader/dist/runtime/api.js, ../../../node_modules/css-loader/dist/runtime/getUrl.js, events, history, hoist-non-react-statics, ./html4-entities, ./html5-entities, html-entities, ./surrogate-pairs, ./xml-entities, loglevel, punycode, object-assign, prop-types/checkPropTypes, ./factoryWithTypeCheckers, prop-types, ./lib/ReactPropTypesSecret, ./lib/has, ./decode, ./encode, querystring, ./cjs/react-dom.development.js, react-dom, ./cjs/react-is.development.js, react-is, react-loadable, react-router-dom, react-router, isarray, path-to-regexp, ./cjs/react.development.js, react, resolve-pathname, ./cjs/scheduler-tracing.development.js, ./cjs/scheduler.development.js, scheduler, scheduler/tracing, sockjs-client/dist/sockjs, !../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js, tiny-invariant, tiny-warning, ./Cookies, universal-cookie, ./utils, cookie, url, ./util, value-equal, ./BaseClient, /Users/toninichev/workspace/nodeJS/projects-sparkjs-v2/web-app/node_modules/webpack-dev-server/client/clients/SockJSClient.js, /Users/toninichev/workspace/nodeJS/projects-sparkjs-v2/web-app/node_modules/webpack-dev-server/client/index.js?http://0.0.0.0:8084, ./overlay, ./socket, ./utils/createSocketUrl, ./getCurrentScriptSource, ./utils/log, ./utils/reloadApp, ./utils/sendMessage, ansi-regex, strip-ansi, ./../../../webpack/buildin/global.js, ./../../../webpack/buildin/module.js, /Users/toninichev/workspace/nodeJS/projects-sparkjs-v2/web-app/node_modules/webpack/hot/dev-server.js, ./emitter, ./log-apply-result, ./log, ./components/App, ../../../components/Loading, ./ComponentList, ./PageData, ../../containers/PageLayout, ../../fonts/Roboto/Roboto-Black.ttf, ../../fonts/Roboto/Roboto-Light.ttf, ../../fonts/digital-display.ttf, ./src/index.js, default */
+/*! exports provided: ./arrayLikeToArray.js, ./arrayWithHoles.js, @babel/runtime/helpers/asyncToGenerator, ./iterableToArrayLimit.js, ./nonIterableRest.js, ../helpers/regeneratorRuntime, @babel/runtime/helpers/slicedToArray, ./unsupportedIterableToArray.js, @babel/runtime/regenerator, ./arrayWithoutHoles.js, @babel/runtime/helpers/defineProperty, ./iterableToArray.js, ./nonIterableSpread.js, @babel/runtime/helpers/toConsumableArray, !!../../../node_modules/css-loader/dist/cjs.js??ref--5-1!../../../node_modules/postcss-loader/src/index.js??ref--5-2!../../../node_modules/sass-loader/dist/cjs.js??ref--5-3!./styles.scss, !!../../../../node_modules/css-loader/dist/cjs.js??ref--5-1!../../../../node_modules/postcss-loader/src/index.js??ref--5-2!../../../../node_modules/sass-loader/dist/cjs.js??ref--5-3!./styles.scss, ../BulletPoint, ./styles.scss, ../Dialer, ../EditDelete, ../../components/GeneralPopup, ./AddPopup, ../../../components/Home, ../MessagePopup, ../RangeSlider, ../TemperatureBar, ../ToggleSwitch, ../../containers/EventsManager, ../../utils/Poster, ../../utils/getParams, ../../../pageComponents/Header, ./home.png, ../../../components/Words, ../../../pageComponents/Setup, ../../../pageComponents/About, undefined, ./assertThisInitialized.js, @babel/runtime/helpers/classCallCheck, @babel/runtime/helpers/createClass, @babel/runtime/helpers/esm/extends, @babel/runtime/helpers/esm/inheritsLoose, @babel/runtime/helpers/esm/objectWithoutPropertiesLoose, ./setPrototypeOf.js, @babel/runtime/helpers/extends, @babel/runtime/helpers/getPrototypeOf, @babel/runtime/helpers/inherits, @babel/runtime/helpers/possibleConstructorReturn, ./toPrimitive.js, ./toPropertyKey.js, ./typeof.js, ansi-html-community, ../../../node_modules/css-loader/dist/runtime/api.js, ../../../node_modules/css-loader/dist/runtime/getUrl.js, events, history, hoist-non-react-statics, ./html4-entities, ./html5-entities, html-entities, ./surrogate-pairs, ./xml-entities, loglevel, punycode, object-assign, prop-types/checkPropTypes, ./factoryWithTypeCheckers, prop-types, ./lib/ReactPropTypesSecret, ./lib/has, ./decode, ./encode, querystring, ./cjs/react-dom.development.js, react-dom, ./cjs/react-is.development.js, react-is, react-loadable, react-router-dom, react-router, isarray, path-to-regexp, ./cjs/react.development.js, react, resolve-pathname, ./cjs/scheduler-tracing.development.js, ./cjs/scheduler.development.js, scheduler, scheduler/tracing, sockjs-client/dist/sockjs, !../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js, tiny-invariant, tiny-warning, ./Cookies, universal-cookie, ./utils, cookie, url, ./util, value-equal, ./BaseClient, /Users/toninichev/workspace/nodeJS/projects-sparkjs-v2/web-app/node_modules/webpack-dev-server/client/clients/SockJSClient.js, /Users/toninichev/workspace/nodeJS/projects-sparkjs-v2/web-app/node_modules/webpack-dev-server/client/index.js?http://0.0.0.0:8084, ./overlay, ./socket, ./utils/createSocketUrl, ./getCurrentScriptSource, ./utils/log, ./utils/reloadApp, ./utils/sendMessage, ansi-regex, strip-ansi, ./../../../webpack/buildin/global.js, ./../../../webpack/buildin/module.js, /Users/toninichev/workspace/nodeJS/projects-sparkjs-v2/web-app/node_modules/webpack/hot/dev-server.js, ./emitter, ./log-apply-result, ./log, ./components/App, ../../../components/Loading, ./ComponentList, ./PageData, ../../containers/PageLayout, ../../fonts/Roboto/Roboto-Black.ttf, ../../fonts/Roboto/Roboto-Light.ttf, ../../fonts/digital-display.ttf, ./src/index.js, default */
 /***/ (function(module) {
 
-module.exports = JSON.parse("{\"@babel/runtime/helpers/asyncToGenerator\":[{\"id\":\"./node_modules/@babel/runtime/helpers/asyncToGenerator.js\",\"name\":\"./node_modules/@babel/runtime/helpers/asyncToGenerator.js\",\"file\":\"0-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/asyncToGenerator.js\",\"name\":\"./node_modules/@babel/runtime/helpers/asyncToGenerator.js\",\"file\":\"0-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js.map\"}],\"../helpers/regeneratorRuntime\":[{\"id\":\"./node_modules/@babel/runtime/helpers/regeneratorRuntime.js\",\"name\":\"./node_modules/@babel/runtime/helpers/regeneratorRuntime.js\",\"file\":\"0-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/regeneratorRuntime.js\",\"name\":\"./node_modules/@babel/runtime/helpers/regeneratorRuntime.js\",\"file\":\"0-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js.map\"}],\"@babel/runtime/regenerator\":[{\"id\":\"./node_modules/@babel/runtime/regenerator/index.js\",\"name\":\"./node_modules/@babel/runtime/regenerator/index.js\",\"file\":\"0-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/regenerator/index.js\",\"name\":\"./node_modules/@babel/runtime/regenerator/index.js\",\"file\":\"0-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js.map\"}],\"./arrayLikeToArray.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/arrayLikeToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayLikeToArray.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/arrayLikeToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayLikeToArray.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./node_modules/@babel/runtime/helpers/arrayLikeToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayLikeToArray.js\",\"file\":\"3-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/arrayLikeToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayLikeToArray.js\",\"file\":\"3-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js.map\"},{\"id\":\"./node_modules/@babel/runtime/helpers/arrayLikeToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayLikeToArray.js\",\"file\":\"4-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/arrayLikeToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayLikeToArray.js\",\"file\":\"4-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js.map\"}],\"./arrayWithHoles.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/arrayWithHoles.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayWithHoles.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/arrayWithHoles.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayWithHoles.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./node_modules/@babel/runtime/helpers/arrayWithHoles.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayWithHoles.js\",\"file\":\"3-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/arrayWithHoles.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayWithHoles.js\",\"file\":\"3-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js.map\"},{\"id\":\"./node_modules/@babel/runtime/helpers/arrayWithHoles.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayWithHoles.js\",\"file\":\"4-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/arrayWithHoles.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayWithHoles.js\",\"file\":\"4-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js.map\"}],\"./iterableToArrayLimit.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js\",\"name\":\"./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js\",\"name\":\"./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js\",\"name\":\"./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js\",\"file\":\"3-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js\",\"name\":\"./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js\",\"file\":\"3-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js.map\"},{\"id\":\"./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js\",\"name\":\"./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js\",\"file\":\"4-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js\",\"name\":\"./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js\",\"file\":\"4-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js.map\"}],\"./nonIterableRest.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/nonIterableRest.js\",\"name\":\"./node_modules/@babel/runtime/helpers/nonIterableRest.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/nonIterableRest.js\",\"name\":\"./node_modules/@babel/runtime/helpers/nonIterableRest.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./node_modules/@babel/runtime/helpers/nonIterableRest.js\",\"name\":\"./node_modules/@babel/runtime/helpers/nonIterableRest.js\",\"file\":\"3-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/nonIterableRest.js\",\"name\":\"./node_modules/@babel/runtime/helpers/nonIterableRest.js\",\"file\":\"3-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js.map\"},{\"id\":\"./node_modules/@babel/runtime/helpers/nonIterableRest.js\",\"name\":\"./node_modules/@babel/runtime/helpers/nonIterableRest.js\",\"file\":\"4-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/nonIterableRest.js\",\"name\":\"./node_modules/@babel/runtime/helpers/nonIterableRest.js\",\"file\":\"4-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js.map\"}],\"@babel/runtime/helpers/slicedToArray\":[{\"id\":\"./node_modules/@babel/runtime/helpers/slicedToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/slicedToArray.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/slicedToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/slicedToArray.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./node_modules/@babel/runtime/helpers/slicedToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/slicedToArray.js\",\"file\":\"3-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/slicedToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/slicedToArray.js\",\"file\":\"3-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js.map\"},{\"id\":\"./node_modules/@babel/runtime/helpers/slicedToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/slicedToArray.js\",\"file\":\"4-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/slicedToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/slicedToArray.js\",\"file\":\"4-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js.map\"}],\"./unsupportedIterableToArray.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js\",\"file\":\"3-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js\",\"file\":\"3-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js.map\"},{\"id\":\"./node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js\",\"file\":\"4-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js\",\"file\":\"4-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js.map\"}],\"!!../../../node_modules/css-loader/dist/cjs.js??ref--5-1!../../../node_modules/postcss-loader/src/index.js??ref--5-2!../../../node_modules/sass-loader/dist/cjs.js??ref--5-3!./styles.scss\":[{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/GeneralPopup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/GeneralPopup/styles.scss\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/GeneralPopup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/GeneralPopup/styles.scss\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/BulletPoint/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/BulletPoint/styles.scss\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Dialer/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Dialer/styles.scss\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/EditDelete/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/EditDelete/styles.scss\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Home/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Home/styles.scss\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/MessagePopup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/MessagePopup/styles.scss\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/RangeSlider/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/RangeSlider/styles.scss\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/TemperatureBar/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/TemperatureBar/styles.scss\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/ToggleSwitch/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/ToggleSwitch/styles.scss\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/BulletPoint/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/BulletPoint/styles.scss\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Dialer/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Dialer/styles.scss\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/EditDelete/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/EditDelete/styles.scss\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Home/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Home/styles.scss\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/MessagePopup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/MessagePopup/styles.scss\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/RangeSlider/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/RangeSlider/styles.scss\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/TemperatureBar/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/TemperatureBar/styles.scss\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/ToggleSwitch/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/ToggleSwitch/styles.scss\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Setup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Setup/styles.scss\",\"file\":\"3-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Setup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Setup/styles.scss\",\"file\":\"3-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Words/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Words/styles.scss\",\"file\":\"4-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Words/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Words/styles.scss\",\"file\":\"4-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Account/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Account/styles.scss\",\"file\":\"5-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/5-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/MessagePopup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/MessagePopup/styles.scss\",\"file\":\"5-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/5-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Account/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Account/styles.scss\",\"file\":\"5-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/5-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/MessagePopup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/MessagePopup/styles.scss\",\"file\":\"5-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/5-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/MessagePopup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/MessagePopup/styles.scss\",\"file\":\"6-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/6-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/SignIn/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/SignIn/styles.scss\",\"file\":\"6-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/6-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/MessagePopup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/MessagePopup/styles.scss\",\"file\":\"6-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/6-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/SignIn/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/SignIn/styles.scss\",\"file\":\"6-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/6-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/MessagePopup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/MessagePopup/styles.scss\",\"file\":\"7-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/7-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/SignOut/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/SignOut/styles.scss\",\"file\":\"7-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/7-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/MessagePopup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/MessagePopup/styles.scss\",\"file\":\"7-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/7-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/SignOut/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/SignOut/styles.scss\",\"file\":\"7-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/7-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/About/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/About/styles.scss\",\"file\":\"8-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/8-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/About/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/About/styles.scss\",\"file\":\"8-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/8-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Header/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Header/styles.scss\",\"file\":\"9-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/9-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Header/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Header/styles.scss\",\"file\":\"9-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/9-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/App/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/App/styles.scss\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Loading/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Loading/styles.scss\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/containers/PageLayout/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/containers/PageLayout/styles.scss\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/App/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/App/styles.scss\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Loading/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Loading/styles.scss\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/containers/PageLayout/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/containers/PageLayout/styles.scss\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"../GeneralPopup\":[{\"id\":\"./src/components/GeneralPopup/index.js\",\"name\":\"./src/components/GeneralPopup/index.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/components/GeneralPopup/index.js\",\"name\":\"./src/components/GeneralPopup/index.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"}],\"./styles.scss\":[{\"id\":\"./src/components/GeneralPopup/styles.scss\",\"name\":\"./src/components/GeneralPopup/styles.scss\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/components/GeneralPopup/styles.scss\",\"name\":\"./src/components/GeneralPopup/styles.scss\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./src/components/BulletPoint/styles.scss\",\"name\":\"./src/components/BulletPoint/styles.scss\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/components/Dialer/styles.scss\",\"name\":\"./src/components/Dialer/styles.scss\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/components/EditDelete/styles.scss\",\"name\":\"./src/components/EditDelete/styles.scss\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/components/Home/AddPopup/styles.scss\",\"name\":\"./src/components/Home/AddPopup/styles.scss\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/components/Home/styles.scss\",\"name\":\"./src/components/Home/styles.scss\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/components/MessagePopup/styles.scss\",\"name\":\"./src/components/MessagePopup/styles.scss\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/components/RangeSlider/styles.scss\",\"name\":\"./src/components/RangeSlider/styles.scss\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/components/TemperatureBar/styles.scss\",\"name\":\"./src/components/TemperatureBar/styles.scss\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/components/ToggleSwitch/styles.scss\",\"name\":\"./src/components/ToggleSwitch/styles.scss\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/components/BulletPoint/styles.scss\",\"name\":\"./src/components/BulletPoint/styles.scss\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./src/components/Dialer/styles.scss\",\"name\":\"./src/components/Dialer/styles.scss\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./src/components/EditDelete/styles.scss\",\"name\":\"./src/components/EditDelete/styles.scss\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./src/components/Home/AddPopup/styles.scss\",\"name\":\"./src/components/Home/AddPopup/styles.scss\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./src/components/Home/styles.scss\",\"name\":\"./src/components/Home/styles.scss\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./src/components/MessagePopup/styles.scss\",\"name\":\"./src/components/MessagePopup/styles.scss\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./src/components/RangeSlider/styles.scss\",\"name\":\"./src/components/RangeSlider/styles.scss\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./src/components/TemperatureBar/styles.scss\",\"name\":\"./src/components/TemperatureBar/styles.scss\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./src/components/ToggleSwitch/styles.scss\",\"name\":\"./src/components/ToggleSwitch/styles.scss\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./src/components/Setup/styles.scss\",\"name\":\"./src/components/Setup/styles.scss\",\"file\":\"3-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js\"},{\"id\":\"./src/components/Setup/styles.scss\",\"name\":\"./src/components/Setup/styles.scss\",\"file\":\"3-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js.map\"},{\"id\":\"./src/components/Words/styles.scss\",\"name\":\"./src/components/Words/styles.scss\",\"file\":\"4-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js\"},{\"id\":\"./src/components/Words/styles.scss\",\"name\":\"./src/components/Words/styles.scss\",\"file\":\"4-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js.map\"},{\"id\":\"./src/components/Account/styles.scss\",\"name\":\"./src/components/Account/styles.scss\",\"file\":\"5-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/5-bundle.js\"},{\"id\":\"./src/components/MessagePopup/styles.scss\",\"name\":\"./src/components/MessagePopup/styles.scss\",\"file\":\"5-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/5-bundle.js\"},{\"id\":\"./src/components/Account/styles.scss\",\"name\":\"./src/components/Account/styles.scss\",\"file\":\"5-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/5-bundle.js.map\"},{\"id\":\"./src/components/MessagePopup/styles.scss\",\"name\":\"./src/components/MessagePopup/styles.scss\",\"file\":\"5-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/5-bundle.js.map\"},{\"id\":\"./src/components/MessagePopup/styles.scss\",\"name\":\"./src/components/MessagePopup/styles.scss\",\"file\":\"6-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/6-bundle.js\"},{\"id\":\"./src/components/SignIn/styles.scss\",\"name\":\"./src/components/SignIn/styles.scss\",\"file\":\"6-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/6-bundle.js\"},{\"id\":\"./src/components/MessagePopup/styles.scss\",\"name\":\"./src/components/MessagePopup/styles.scss\",\"file\":\"6-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/6-bundle.js.map\"},{\"id\":\"./src/components/SignIn/styles.scss\",\"name\":\"./src/components/SignIn/styles.scss\",\"file\":\"6-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/6-bundle.js.map\"},{\"id\":\"./src/components/MessagePopup/styles.scss\",\"name\":\"./src/components/MessagePopup/styles.scss\",\"file\":\"7-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/7-bundle.js\"},{\"id\":\"./src/components/SignOut/styles.scss\",\"name\":\"./src/components/SignOut/styles.scss\",\"file\":\"7-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/7-bundle.js\"},{\"id\":\"./src/components/MessagePopup/styles.scss\",\"name\":\"./src/components/MessagePopup/styles.scss\",\"file\":\"7-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/7-bundle.js.map\"},{\"id\":\"./src/components/SignOut/styles.scss\",\"name\":\"./src/components/SignOut/styles.scss\",\"file\":\"7-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/7-bundle.js.map\"},{\"id\":\"./src/components/About/styles.scss\",\"name\":\"./src/components/About/styles.scss\",\"file\":\"8-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/8-bundle.js\"},{\"id\":\"./src/components/About/styles.scss\",\"name\":\"./src/components/About/styles.scss\",\"file\":\"8-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/8-bundle.js.map\"},{\"id\":\"./src/components/Header/styles.scss\",\"name\":\"./src/components/Header/styles.scss\",\"file\":\"9-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/9-bundle.js\"},{\"id\":\"./src/components/Header/styles.scss\",\"name\":\"./src/components/Header/styles.scss\",\"file\":\"9-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/9-bundle.js.map\"},{\"id\":\"./src/components/App/styles.scss\",\"name\":\"./src/components/App/styles.scss\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/components/Loading/styles.scss\",\"name\":\"./src/components/Loading/styles.scss\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/containers/PageLayout/styles.scss\",\"name\":\"./src/containers/PageLayout/styles.scss\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/components/App/styles.scss\",\"name\":\"./src/components/App/styles.scss\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"},{\"id\":\"./src/components/Loading/styles.scss\",\"name\":\"./src/components/Loading/styles.scss\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"},{\"id\":\"./src/containers/PageLayout/styles.scss\",\"name\":\"./src/containers/PageLayout/styles.scss\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"../../containers/EventsManager\":[{\"id\":\"./src/containers/EventsManager/index.js\",\"name\":\"./src/containers/EventsManager/index.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/containers/EventsManager/index.js\",\"name\":\"./src/containers/EventsManager/index.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"}],\"./arrayWithoutHoles.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/arrayWithoutHoles.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayWithoutHoles.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/arrayWithoutHoles.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayWithoutHoles.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"}],\"@babel/runtime/helpers/defineProperty\":[{\"id\":\"./node_modules/@babel/runtime/helpers/defineProperty.js\",\"name\":\"./node_modules/@babel/runtime/helpers/defineProperty.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/defineProperty.js\",\"name\":\"./node_modules/@babel/runtime/helpers/defineProperty.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"}],\"./iterableToArray.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/iterableToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/iterableToArray.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/iterableToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/iterableToArray.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"}],\"./nonIterableSpread.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/nonIterableSpread.js\",\"name\":\"./node_modules/@babel/runtime/helpers/nonIterableSpread.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/nonIterableSpread.js\",\"name\":\"./node_modules/@babel/runtime/helpers/nonIterableSpread.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"}],\"@babel/runtime/helpers/toConsumableArray\":[{\"id\":\"./node_modules/@babel/runtime/helpers/toConsumableArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/toConsumableArray.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/toConsumableArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/toConsumableArray.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"}],\"!!../../../../node_modules/css-loader/dist/cjs.js??ref--5-1!../../../../node_modules/postcss-loader/src/index.js??ref--5-2!../../../../node_modules/sass-loader/dist/cjs.js??ref--5-3!./styles.scss\":[{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Home/AddPopup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Home/AddPopup/styles.scss\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Home/AddPopup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Home/AddPopup/styles.scss\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"}],\"../BulletPoint\":[{\"id\":\"./src/components/BulletPoint/index.js\",\"name\":\"./src/components/BulletPoint/index.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/components/BulletPoint/index.js\",\"name\":\"./src/components/BulletPoint/index.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"}],\"../Dialer\":[{\"id\":\"./src/components/Dialer/index.js\",\"name\":\"./src/components/Dialer/index.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/components/Dialer/index.js\",\"name\":\"./src/components/Dialer/index.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"}],\"../EditDelete\":[{\"id\":\"./src/components/EditDelete/index.js\",\"name\":\"./src/components/EditDelete/index.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/components/EditDelete/index.js\",\"name\":\"./src/components/EditDelete/index.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"}],\"./AddPopup\":[{\"id\":\"./src/components/Home/AddPopup/index.js\",\"name\":\"./src/components/Home/AddPopup/index.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/components/Home/AddPopup/index.js\",\"name\":\"./src/components/Home/AddPopup/index.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"}],\"../../../components/Home\":[{\"id\":\"./src/components/Home/index.js\",\"name\":\"./src/components/Home/index.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/components/Home/index.js\",\"name\":\"./src/components/Home/index.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"}],\"../MessagePopup\":[{\"id\":\"./src/components/MessagePopup/index.js\",\"name\":\"./src/components/MessagePopup/index.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/components/MessagePopup/index.js\",\"name\":\"./src/components/MessagePopup/index.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./src/components/MessagePopup/index.js\",\"name\":\"./src/components/MessagePopup/index.js\",\"file\":\"5-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/5-bundle.js\"},{\"id\":\"./src/components/MessagePopup/index.js\",\"name\":\"./src/components/MessagePopup/index.js\",\"file\":\"5-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/5-bundle.js.map\"},{\"id\":\"./src/components/MessagePopup/index.js\",\"name\":\"./src/components/MessagePopup/index.js\",\"file\":\"6-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/6-bundle.js\"},{\"id\":\"./src/components/MessagePopup/index.js\",\"name\":\"./src/components/MessagePopup/index.js\",\"file\":\"6-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/6-bundle.js.map\"},{\"id\":\"./src/components/MessagePopup/index.js\",\"name\":\"./src/components/MessagePopup/index.js\",\"file\":\"7-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/7-bundle.js\"},{\"id\":\"./src/components/MessagePopup/index.js\",\"name\":\"./src/components/MessagePopup/index.js\",\"file\":\"7-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/7-bundle.js.map\"}],\"../RangeSlider\":[{\"id\":\"./src/components/RangeSlider/index.js\",\"name\":\"./src/components/RangeSlider/index.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/components/RangeSlider/index.js\",\"name\":\"./src/components/RangeSlider/index.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"}],\"../TemperatureBar\":[{\"id\":\"./src/components/TemperatureBar/index.js\",\"name\":\"./src/components/TemperatureBar/index.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/components/TemperatureBar/index.js\",\"name\":\"./src/components/TemperatureBar/index.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"}],\"../ToggleSwitch\":[{\"id\":\"./src/components/ToggleSwitch/index.js\",\"name\":\"./src/components/ToggleSwitch/index.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/components/ToggleSwitch/index.js\",\"name\":\"./src/components/ToggleSwitch/index.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"}],\"../../utils/Poster\":[{\"id\":\"./src/utils/Poster.js\",\"name\":\"./src/utils/Poster.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/utils/Poster.js\",\"name\":\"./src/utils/Poster.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./src/utils/Poster.js\",\"name\":\"./src/utils/Poster.js\",\"file\":\"3-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js\"},{\"id\":\"./src/utils/Poster.js\",\"name\":\"./src/utils/Poster.js\",\"file\":\"3-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js.map\"},{\"id\":\"./src/utils/Poster.js\",\"name\":\"./src/utils/Poster.js\",\"file\":\"4-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js\"},{\"id\":\"./src/utils/Poster.js\",\"name\":\"./src/utils/Poster.js\",\"file\":\"4-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js.map\"},{\"id\":\"./src/utils/Poster.js\",\"name\":\"./src/utils/Poster.js\",\"file\":\"5-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/5-bundle.js\"},{\"id\":\"./src/utils/Poster.js\",\"name\":\"./src/utils/Poster.js\",\"file\":\"5-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/5-bundle.js.map\"},{\"id\":\"./src/utils/Poster.js\",\"name\":\"./src/utils/Poster.js\",\"file\":\"6-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/6-bundle.js\"},{\"id\":\"./src/utils/Poster.js\",\"name\":\"./src/utils/Poster.js\",\"file\":\"6-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/6-bundle.js.map\"},{\"id\":\"./src/utils/Poster.js\",\"name\":\"./src/utils/Poster.js\",\"file\":\"7-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/7-bundle.js\"},{\"id\":\"./src/utils/Poster.js\",\"name\":\"./src/utils/Poster.js\",\"file\":\"7-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/7-bundle.js.map\"}],\"../../utils/getParams\":[{\"id\":\"./src/utils/getParams.js\",\"name\":\"./src/utils/getParams.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/utils/getParams.js\",\"name\":\"./src/utils/getParams.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./src/utils/getParams.js\",\"name\":\"./src/utils/getParams.js\",\"file\":\"3-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js\"},{\"id\":\"./src/utils/getParams.js\",\"name\":\"./src/utils/getParams.js\",\"file\":\"3-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js.map\"},{\"id\":\"./src/utils/getParams.js\",\"name\":\"./src/utils/getParams.js\",\"file\":\"4-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js\"},{\"id\":\"./src/utils/getParams.js\",\"name\":\"./src/utils/getParams.js\",\"file\":\"4-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js.map\"},{\"id\":\"./src/utils/getParams.js\",\"name\":\"./src/utils/getParams.js\",\"file\":\"5-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/5-bundle.js\"},{\"id\":\"./src/utils/getParams.js\",\"name\":\"./src/utils/getParams.js\",\"file\":\"5-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/5-bundle.js.map\"},{\"id\":\"./src/utils/getParams.js\",\"name\":\"./src/utils/getParams.js\",\"file\":\"6-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/6-bundle.js\"},{\"id\":\"./src/utils/getParams.js\",\"name\":\"./src/utils/getParams.js\",\"file\":\"6-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/6-bundle.js.map\"},{\"id\":\"./src/utils/getParams.js\",\"name\":\"./src/utils/getParams.js\",\"file\":\"7-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/7-bundle.js\"},{\"id\":\"./src/utils/getParams.js\",\"name\":\"./src/utils/getParams.js\",\"file\":\"7-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/7-bundle.js.map\"}],\"./home.png\":[{\"id\":\"./src/components/Setup/home.png\",\"name\":\"./src/components/Setup/home.png\",\"file\":\"3-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js\"},{\"id\":\"./src/components/Setup/home.png\",\"name\":\"./src/components/Setup/home.png\",\"file\":\"3-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js.map\"},{\"id\":\"./src/components/Words/home.png\",\"name\":\"./src/components/Words/home.png\",\"file\":\"4-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js\"},{\"id\":\"./src/components/Words/home.png\",\"name\":\"./src/components/Words/home.png\",\"file\":\"4-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js.map\"}],\"../../../components/Setup\":[{\"id\":\"./src/components/Setup/index.js\",\"name\":\"./src/components/Setup/index.js\",\"file\":\"3-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js\"},{\"id\":\"./src/components/Setup/index.js\",\"name\":\"./src/components/Setup/index.js\",\"file\":\"3-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js.map\"}],\"../../../components/Words\":[{\"id\":\"./src/components/Words/index.js\",\"name\":\"./src/components/Words/index.js\",\"file\":\"4-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js\"},{\"id\":\"./src/components/Words/index.js\",\"name\":\"./src/components/Words/index.js\",\"file\":\"4-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js.map\"}],\"../../../components/Account\":[{\"id\":\"./src/components/Account/index.js\",\"name\":\"./src/components/Account/index.js\",\"file\":\"5-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/5-bundle.js\"},{\"id\":\"./src/components/Account/index.js\",\"name\":\"./src/components/Account/index.js\",\"file\":\"5-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/5-bundle.js.map\"}],\"../../../components/SignIn\":[{\"id\":\"./src/components/SignIn/index.js\",\"name\":\"./src/components/SignIn/index.js\",\"file\":\"6-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/6-bundle.js\"},{\"id\":\"./src/components/SignIn/index.js\",\"name\":\"./src/components/SignIn/index.js\",\"file\":\"6-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/6-bundle.js.map\"}],\"../../../components/SignOut\":[{\"id\":\"./src/components/SignOut/index.js\",\"name\":\"./src/components/SignOut/index.js\",\"file\":\"7-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/7-bundle.js\"},{\"id\":\"./src/components/SignOut/index.js\",\"name\":\"./src/components/SignOut/index.js\",\"file\":\"7-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/7-bundle.js.map\"}],\"../../../components/About\":[{\"id\":\"./src/components/About/index.js\",\"name\":\"./src/components/About/index.js\",\"file\":\"8-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/8-bundle.js\"},{\"id\":\"./src/components/About/index.js\",\"name\":\"./src/components/About/index.js\",\"file\":\"8-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/8-bundle.js.map\"}],\"../../../components/Header\":[{\"id\":\"./src/components/Header/index.js\",\"name\":\"./src/components/Header/index.js\",\"file\":\"9-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/9-bundle.js\"},{\"id\":\"./src/components/Header/index.js\",\"name\":\"./src/components/Header/index.js\",\"file\":\"9-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/9-bundle.js.map\"}],\"undefined\":[{\"id\":1,\"name\":null,\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack/hot sync ^\\\\.\\\\/log$\",\"name\":\"./node_modules/webpack/hot sync ^\\\\.\\\\/log$\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":1,\"name\":null,\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"},{\"id\":\"./node_modules/webpack/hot sync ^\\\\.\\\\/log$\",\"name\":\"./node_modules/webpack/hot sync ^\\\\.\\\\/log$\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./assertThisInitialized.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/assertThisInitialized.js\",\"name\":\"./node_modules/@babel/runtime/helpers/assertThisInitialized.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/assertThisInitialized.js\",\"name\":\"./node_modules/@babel/runtime/helpers/assertThisInitialized.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"@babel/runtime/helpers/classCallCheck\":[{\"id\":\"./node_modules/@babel/runtime/helpers/classCallCheck.js\",\"name\":\"./node_modules/@babel/runtime/helpers/classCallCheck.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/classCallCheck.js\",\"name\":\"./node_modules/@babel/runtime/helpers/classCallCheck.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"@babel/runtime/helpers/createClass\":[{\"id\":\"./node_modules/@babel/runtime/helpers/createClass.js\",\"name\":\"./node_modules/@babel/runtime/helpers/createClass.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/createClass.js\",\"name\":\"./node_modules/@babel/runtime/helpers/createClass.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"@babel/runtime/helpers/esm/extends\":[{\"id\":\"./node_modules/@babel/runtime/helpers/esm/extends.js\",\"name\":\"./node_modules/@babel/runtime/helpers/esm/extends.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/esm/extends.js\",\"name\":\"./node_modules/@babel/runtime/helpers/esm/extends.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"@babel/runtime/helpers/esm/inheritsLoose\":[{\"id\":\"./node_modules/@babel/runtime/helpers/esm/inheritsLoose.js\",\"name\":\"./node_modules/@babel/runtime/helpers/esm/inheritsLoose.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/esm/inheritsLoose.js\",\"name\":\"./node_modules/@babel/runtime/helpers/esm/inheritsLoose.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"@babel/runtime/helpers/esm/objectWithoutPropertiesLoose\":[{\"id\":\"./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js\",\"name\":\"./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js\",\"name\":\"./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./setPrototypeOf.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js\",\"name\":\"./node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/setPrototypeOf.js\",\"name\":\"./node_modules/@babel/runtime/helpers/setPrototypeOf.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js\",\"name\":\"./node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"},{\"id\":\"./node_modules/@babel/runtime/helpers/setPrototypeOf.js\",\"name\":\"./node_modules/@babel/runtime/helpers/setPrototypeOf.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"@babel/runtime/helpers/extends\":[{\"id\":\"./node_modules/@babel/runtime/helpers/extends.js\",\"name\":\"./node_modules/@babel/runtime/helpers/extends.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/extends.js\",\"name\":\"./node_modules/@babel/runtime/helpers/extends.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"@babel/runtime/helpers/getPrototypeOf\":[{\"id\":\"./node_modules/@babel/runtime/helpers/getPrototypeOf.js\",\"name\":\"./node_modules/@babel/runtime/helpers/getPrototypeOf.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/getPrototypeOf.js\",\"name\":\"./node_modules/@babel/runtime/helpers/getPrototypeOf.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"@babel/runtime/helpers/inherits\":[{\"id\":\"./node_modules/@babel/runtime/helpers/inherits.js\",\"name\":\"./node_modules/@babel/runtime/helpers/inherits.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/inherits.js\",\"name\":\"./node_modules/@babel/runtime/helpers/inherits.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"@babel/runtime/helpers/possibleConstructorReturn\":[{\"id\":\"./node_modules/@babel/runtime/helpers/possibleConstructorReturn.js\",\"name\":\"./node_modules/@babel/runtime/helpers/possibleConstructorReturn.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/possibleConstructorReturn.js\",\"name\":\"./node_modules/@babel/runtime/helpers/possibleConstructorReturn.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./toPrimitive.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/toPrimitive.js\",\"name\":\"./node_modules/@babel/runtime/helpers/toPrimitive.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/toPrimitive.js\",\"name\":\"./node_modules/@babel/runtime/helpers/toPrimitive.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./toPropertyKey.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/toPropertyKey.js\",\"name\":\"./node_modules/@babel/runtime/helpers/toPropertyKey.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/toPropertyKey.js\",\"name\":\"./node_modules/@babel/runtime/helpers/toPropertyKey.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./typeof.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/typeof.js\",\"name\":\"./node_modules/@babel/runtime/helpers/typeof.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/typeof.js\",\"name\":\"./node_modules/@babel/runtime/helpers/typeof.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"ansi-html-community\":[{\"id\":\"./node_modules/ansi-html-community/index.js\",\"name\":\"./node_modules/ansi-html-community/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/ansi-html-community/index.js\",\"name\":\"./node_modules/ansi-html-community/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"../../../node_modules/css-loader/dist/runtime/api.js\":[{\"id\":\"./node_modules/css-loader/dist/runtime/api.js\",\"name\":\"./node_modules/css-loader/dist/runtime/api.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/runtime/api.js\",\"name\":\"./node_modules/css-loader/dist/runtime/api.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"../../../node_modules/css-loader/dist/runtime/getUrl.js\":[{\"id\":\"./node_modules/css-loader/dist/runtime/getUrl.js\",\"name\":\"./node_modules/css-loader/dist/runtime/getUrl.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/runtime/getUrl.js\",\"name\":\"./node_modules/css-loader/dist/runtime/getUrl.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"events\":[{\"id\":\"./node_modules/events/events.js\",\"name\":\"./node_modules/events/events.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/events/events.js\",\"name\":\"./node_modules/events/events.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"history\":[{\"id\":\"./node_modules/history/esm/history.js\",\"name\":\"./node_modules/history/esm/history.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/history/esm/history.js\",\"name\":\"./node_modules/history/esm/history.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"hoist-non-react-statics\":[{\"id\":\"./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js\",\"name\":\"./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js\",\"name\":\"./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./html4-entities\":[{\"id\":\"./node_modules/html-entities/lib/html4-entities.js\",\"name\":\"./node_modules/html-entities/lib/html4-entities.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/html-entities/lib/html4-entities.js\",\"name\":\"./node_modules/html-entities/lib/html4-entities.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./html5-entities\":[{\"id\":\"./node_modules/html-entities/lib/html5-entities.js\",\"name\":\"./node_modules/html-entities/lib/html5-entities.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/html-entities/lib/html5-entities.js\",\"name\":\"./node_modules/html-entities/lib/html5-entities.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"html-entities\":[{\"id\":\"./node_modules/html-entities/lib/index.js\",\"name\":\"./node_modules/html-entities/lib/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/html-entities/lib/index.js\",\"name\":\"./node_modules/html-entities/lib/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./surrogate-pairs\":[{\"id\":\"./node_modules/html-entities/lib/surrogate-pairs.js\",\"name\":\"./node_modules/html-entities/lib/surrogate-pairs.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/html-entities/lib/surrogate-pairs.js\",\"name\":\"./node_modules/html-entities/lib/surrogate-pairs.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./xml-entities\":[{\"id\":\"./node_modules/html-entities/lib/xml-entities.js\",\"name\":\"./node_modules/html-entities/lib/xml-entities.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/html-entities/lib/xml-entities.js\",\"name\":\"./node_modules/html-entities/lib/xml-entities.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"loglevel\":[{\"id\":\"./node_modules/loglevel/lib/loglevel.js\",\"name\":\"./node_modules/loglevel/lib/loglevel.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/loglevel/lib/loglevel.js\",\"name\":\"./node_modules/loglevel/lib/loglevel.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"punycode\":[{\"id\":\"./node_modules/node-libs-browser/node_modules/punycode/punycode.js\",\"name\":\"./node_modules/node-libs-browser/node_modules/punycode/punycode.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/node-libs-browser/node_modules/punycode/punycode.js\",\"name\":\"./node_modules/node-libs-browser/node_modules/punycode/punycode.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"object-assign\":[{\"id\":\"./node_modules/object-assign/index.js\",\"name\":\"./node_modules/object-assign/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/object-assign/index.js\",\"name\":\"./node_modules/object-assign/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"prop-types/checkPropTypes\":[{\"id\":\"./node_modules/prop-types/checkPropTypes.js\",\"name\":\"./node_modules/prop-types/checkPropTypes.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/prop-types/checkPropTypes.js\",\"name\":\"./node_modules/prop-types/checkPropTypes.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./factoryWithTypeCheckers\":[{\"id\":\"./node_modules/prop-types/factoryWithTypeCheckers.js\",\"name\":\"./node_modules/prop-types/factoryWithTypeCheckers.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/prop-types/factoryWithTypeCheckers.js\",\"name\":\"./node_modules/prop-types/factoryWithTypeCheckers.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"prop-types\":[{\"id\":\"./node_modules/prop-types/index.js\",\"name\":\"./node_modules/prop-types/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/prop-types/index.js\",\"name\":\"./node_modules/prop-types/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./lib/ReactPropTypesSecret\":[{\"id\":\"./node_modules/prop-types/lib/ReactPropTypesSecret.js\",\"name\":\"./node_modules/prop-types/lib/ReactPropTypesSecret.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/prop-types/lib/ReactPropTypesSecret.js\",\"name\":\"./node_modules/prop-types/lib/ReactPropTypesSecret.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./lib/has\":[{\"id\":\"./node_modules/prop-types/lib/has.js\",\"name\":\"./node_modules/prop-types/lib/has.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/prop-types/lib/has.js\",\"name\":\"./node_modules/prop-types/lib/has.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./decode\":[{\"id\":\"./node_modules/querystring-es3/decode.js\",\"name\":\"./node_modules/querystring-es3/decode.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/querystring-es3/decode.js\",\"name\":\"./node_modules/querystring-es3/decode.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./encode\":[{\"id\":\"./node_modules/querystring-es3/encode.js\",\"name\":\"./node_modules/querystring-es3/encode.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/querystring-es3/encode.js\",\"name\":\"./node_modules/querystring-es3/encode.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"querystring\":[{\"id\":\"./node_modules/querystring-es3/index.js\",\"name\":\"./node_modules/querystring-es3/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/querystring-es3/index.js\",\"name\":\"./node_modules/querystring-es3/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./cjs/react-dom.development.js\":[{\"id\":\"./node_modules/react-dom/cjs/react-dom.development.js\",\"name\":\"./node_modules/react-dom/cjs/react-dom.development.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/react-dom/cjs/react-dom.development.js\",\"name\":\"./node_modules/react-dom/cjs/react-dom.development.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"react-dom\":[{\"id\":\"./node_modules/react-dom/index.js\",\"name\":\"./node_modules/react-dom/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/react-dom/index.js\",\"name\":\"./node_modules/react-dom/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./cjs/react-is.development.js\":[{\"id\":\"./node_modules/react-is/cjs/react-is.development.js\",\"name\":\"./node_modules/react-is/cjs/react-is.development.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/react-is/cjs/react-is.development.js\",\"name\":\"./node_modules/react-is/cjs/react-is.development.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"react-is\":[{\"id\":\"./node_modules/react-is/index.js\",\"name\":\"./node_modules/react-is/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/react-is/index.js\",\"name\":\"./node_modules/react-is/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"react-loadable\":[{\"id\":\"./node_modules/react-loadable/lib/index.js\",\"name\":\"./node_modules/react-loadable/lib/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/react-loadable/lib/index.js\",\"name\":\"./node_modules/react-loadable/lib/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"react-router-dom\":[{\"id\":\"./node_modules/react-router-dom/esm/react-router-dom.js\",\"name\":\"./node_modules/react-router-dom/esm/react-router-dom.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/react-router-dom/esm/react-router-dom.js\",\"name\":\"./node_modules/react-router-dom/esm/react-router-dom.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"react-router\":[{\"id\":\"./node_modules/react-router/esm/react-router.js\",\"name\":\"./node_modules/react-router/esm/react-router.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/react-router/esm/react-router.js\",\"name\":\"./node_modules/react-router/esm/react-router.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"isarray\":[{\"id\":\"./node_modules/react-router/node_modules/isarray/index.js\",\"name\":\"./node_modules/react-router/node_modules/isarray/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/react-router/node_modules/isarray/index.js\",\"name\":\"./node_modules/react-router/node_modules/isarray/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"path-to-regexp\":[{\"id\":\"./node_modules/react-router/node_modules/path-to-regexp/index.js\",\"name\":\"./node_modules/react-router/node_modules/path-to-regexp/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/react-router/node_modules/path-to-regexp/index.js\",\"name\":\"./node_modules/react-router/node_modules/path-to-regexp/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./cjs/react.development.js\":[{\"id\":\"./node_modules/react/cjs/react.development.js\",\"name\":\"./node_modules/react/cjs/react.development.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/react/cjs/react.development.js\",\"name\":\"./node_modules/react/cjs/react.development.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"react\":[{\"id\":\"./node_modules/react/index.js\",\"name\":\"./node_modules/react/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/react/index.js\",\"name\":\"./node_modules/react/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"resolve-pathname\":[{\"id\":\"./node_modules/resolve-pathname/esm/resolve-pathname.js\",\"name\":\"./node_modules/resolve-pathname/esm/resolve-pathname.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/resolve-pathname/esm/resolve-pathname.js\",\"name\":\"./node_modules/resolve-pathname/esm/resolve-pathname.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./cjs/scheduler-tracing.development.js\":[{\"id\":\"./node_modules/scheduler/cjs/scheduler-tracing.development.js\",\"name\":\"./node_modules/scheduler/cjs/scheduler-tracing.development.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/scheduler/cjs/scheduler-tracing.development.js\",\"name\":\"./node_modules/scheduler/cjs/scheduler-tracing.development.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./cjs/scheduler.development.js\":[{\"id\":\"./node_modules/scheduler/cjs/scheduler.development.js\",\"name\":\"./node_modules/scheduler/cjs/scheduler.development.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/scheduler/cjs/scheduler.development.js\",\"name\":\"./node_modules/scheduler/cjs/scheduler.development.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"scheduler\":[{\"id\":\"./node_modules/scheduler/index.js\",\"name\":\"./node_modules/scheduler/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/scheduler/index.js\",\"name\":\"./node_modules/scheduler/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"scheduler/tracing\":[{\"id\":\"./node_modules/scheduler/tracing.js\",\"name\":\"./node_modules/scheduler/tracing.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/scheduler/tracing.js\",\"name\":\"./node_modules/scheduler/tracing.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"sockjs-client/dist/sockjs\":[{\"id\":\"./node_modules/sockjs-client/dist/sockjs.js\",\"name\":\"./node_modules/sockjs-client/dist/sockjs.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/sockjs-client/dist/sockjs.js\",\"name\":\"./node_modules/sockjs-client/dist/sockjs.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"!../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js\":[{\"id\":\"./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js\",\"name\":\"./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js\",\"name\":\"./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"tiny-invariant\":[{\"id\":\"./node_modules/tiny-invariant/dist/tiny-invariant.esm.js\",\"name\":\"./node_modules/tiny-invariant/dist/tiny-invariant.esm.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/tiny-invariant/dist/tiny-invariant.esm.js\",\"name\":\"./node_modules/tiny-invariant/dist/tiny-invariant.esm.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"tiny-warning\":[{\"id\":\"./node_modules/tiny-warning/dist/tiny-warning.esm.js\",\"name\":\"./node_modules/tiny-warning/dist/tiny-warning.esm.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/tiny-warning/dist/tiny-warning.esm.js\",\"name\":\"./node_modules/tiny-warning/dist/tiny-warning.esm.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./Cookies\":[{\"id\":\"./node_modules/universal-cookie/es6/Cookies.js\",\"name\":\"./node_modules/universal-cookie/es6/Cookies.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/universal-cookie/es6/Cookies.js\",\"name\":\"./node_modules/universal-cookie/es6/Cookies.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"universal-cookie\":[{\"id\":\"./node_modules/universal-cookie/es6/index.js\",\"name\":\"./node_modules/universal-cookie/es6/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/universal-cookie/es6/index.js\",\"name\":\"./node_modules/universal-cookie/es6/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./utils\":[{\"id\":\"./node_modules/universal-cookie/es6/utils.js\",\"name\":\"./node_modules/universal-cookie/es6/utils.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/universal-cookie/es6/utils.js\",\"name\":\"./node_modules/universal-cookie/es6/utils.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"cookie\":[{\"id\":\"./node_modules/universal-cookie/node_modules/cookie/index.js\",\"name\":\"./node_modules/universal-cookie/node_modules/cookie/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/universal-cookie/node_modules/cookie/index.js\",\"name\":\"./node_modules/universal-cookie/node_modules/cookie/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"url\":[{\"id\":\"./node_modules/url/url.js\",\"name\":\"./node_modules/url/url.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/url/url.js\",\"name\":\"./node_modules/url/url.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./util\":[{\"id\":\"./node_modules/url/util.js\",\"name\":\"./node_modules/url/util.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/url/util.js\",\"name\":\"./node_modules/url/util.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"value-equal\":[{\"id\":\"./node_modules/value-equal/esm/value-equal.js\",\"name\":\"./node_modules/value-equal/esm/value-equal.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/value-equal/esm/value-equal.js\",\"name\":\"./node_modules/value-equal/esm/value-equal.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./BaseClient\":[{\"id\":\"./node_modules/webpack-dev-server/client/clients/BaseClient.js\",\"name\":\"./node_modules/webpack-dev-server/client/clients/BaseClient.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/client/clients/BaseClient.js\",\"name\":\"./node_modules/webpack-dev-server/client/clients/BaseClient.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"/Users/toninichev/workspace/nodeJS/projects-sparkjs-v2/web-app/node_modules/webpack-dev-server/client/clients/SockJSClient.js\":[{\"id\":\"./node_modules/webpack-dev-server/client/clients/SockJSClient.js\",\"name\":\"./node_modules/webpack-dev-server/client/clients/SockJSClient.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/client/clients/SockJSClient.js\",\"name\":\"./node_modules/webpack-dev-server/client/clients/SockJSClient.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"/Users/toninichev/workspace/nodeJS/projects-sparkjs-v2/web-app/node_modules/webpack-dev-server/client/index.js?http://0.0.0.0:8084\":[{\"id\":\"./node_modules/webpack-dev-server/client/index.js?http://0.0.0.0:8084\",\"name\":\"./node_modules/webpack-dev-server/client/index.js?http://0.0.0.0:8084\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/client/index.js?http://0.0.0.0:8084\",\"name\":\"./node_modules/webpack-dev-server/client/index.js?http://0.0.0.0:8084\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./overlay\":[{\"id\":\"./node_modules/webpack-dev-server/client/overlay.js\",\"name\":\"./node_modules/webpack-dev-server/client/overlay.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/client/overlay.js\",\"name\":\"./node_modules/webpack-dev-server/client/overlay.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./socket\":[{\"id\":\"./node_modules/webpack-dev-server/client/socket.js\",\"name\":\"./node_modules/webpack-dev-server/client/socket.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/client/socket.js\",\"name\":\"./node_modules/webpack-dev-server/client/socket.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./utils/createSocketUrl\":[{\"id\":\"./node_modules/webpack-dev-server/client/utils/createSocketUrl.js\",\"name\":\"./node_modules/webpack-dev-server/client/utils/createSocketUrl.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/client/utils/createSocketUrl.js\",\"name\":\"./node_modules/webpack-dev-server/client/utils/createSocketUrl.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./getCurrentScriptSource\":[{\"id\":\"./node_modules/webpack-dev-server/client/utils/getCurrentScriptSource.js\",\"name\":\"./node_modules/webpack-dev-server/client/utils/getCurrentScriptSource.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/client/utils/getCurrentScriptSource.js\",\"name\":\"./node_modules/webpack-dev-server/client/utils/getCurrentScriptSource.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./utils/log\":[{\"id\":\"./node_modules/webpack-dev-server/client/utils/log.js\",\"name\":\"./node_modules/webpack-dev-server/client/utils/log.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/client/utils/log.js\",\"name\":\"./node_modules/webpack-dev-server/client/utils/log.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./utils/reloadApp\":[{\"id\":\"./node_modules/webpack-dev-server/client/utils/reloadApp.js\",\"name\":\"./node_modules/webpack-dev-server/client/utils/reloadApp.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/client/utils/reloadApp.js\",\"name\":\"./node_modules/webpack-dev-server/client/utils/reloadApp.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./utils/sendMessage\":[{\"id\":\"./node_modules/webpack-dev-server/client/utils/sendMessage.js\",\"name\":\"./node_modules/webpack-dev-server/client/utils/sendMessage.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/client/utils/sendMessage.js\",\"name\":\"./node_modules/webpack-dev-server/client/utils/sendMessage.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"ansi-regex\":[{\"id\":\"./node_modules/webpack-dev-server/node_modules/ansi-regex/index.js\",\"name\":\"./node_modules/webpack-dev-server/node_modules/ansi-regex/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/node_modules/ansi-regex/index.js\",\"name\":\"./node_modules/webpack-dev-server/node_modules/ansi-regex/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"strip-ansi\":[{\"id\":\"./node_modules/webpack-dev-server/node_modules/strip-ansi/index.js\",\"name\":\"./node_modules/webpack-dev-server/node_modules/strip-ansi/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/node_modules/strip-ansi/index.js\",\"name\":\"./node_modules/webpack-dev-server/node_modules/strip-ansi/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./../../../webpack/buildin/global.js\":[{\"id\":\"./node_modules/webpack/buildin/global.js\",\"name\":\"./node_modules/webpack/buildin/global.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack/buildin/global.js\",\"name\":\"./node_modules/webpack/buildin/global.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./../../../webpack/buildin/module.js\":[{\"id\":\"./node_modules/webpack/buildin/module.js\",\"name\":\"./node_modules/webpack/buildin/module.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack/buildin/module.js\",\"name\":\"./node_modules/webpack/buildin/module.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"/Users/toninichev/workspace/nodeJS/projects-sparkjs-v2/web-app/node_modules/webpack/hot/dev-server.js\":[{\"id\":\"./node_modules/webpack/hot/dev-server.js\",\"name\":\"./node_modules/webpack/hot/dev-server.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack/hot/dev-server.js\",\"name\":\"./node_modules/webpack/hot/dev-server.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./emitter\":[{\"id\":\"./node_modules/webpack/hot/emitter.js\",\"name\":\"./node_modules/webpack/hot/emitter.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack/hot/emitter.js\",\"name\":\"./node_modules/webpack/hot/emitter.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./log-apply-result\":[{\"id\":\"./node_modules/webpack/hot/log-apply-result.js\",\"name\":\"./node_modules/webpack/hot/log-apply-result.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack/hot/log-apply-result.js\",\"name\":\"./node_modules/webpack/hot/log-apply-result.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./log\":[{\"id\":\"./node_modules/webpack/hot/log.js\",\"name\":\"./node_modules/webpack/hot/log.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack/hot/log.js\",\"name\":\"./node_modules/webpack/hot/log.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./components/App\":[{\"id\":\"./src/components/App/index.js\",\"name\":\"./src/components/App/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/components/App/index.js\",\"name\":\"./src/components/App/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"../../../components/Loading\":[{\"id\":\"./src/components/Loading/index.js\",\"name\":\"./src/components/Loading/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/components/Loading/index.js\",\"name\":\"./src/components/Loading/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./ComponentList\":[{\"id\":\"./src/containers/PageLayout/ComponentList/index.js\",\"name\":\"./src/containers/PageLayout/ComponentList/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/containers/PageLayout/ComponentList/index.js\",\"name\":\"./src/containers/PageLayout/ComponentList/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./PageData\":[{\"id\":\"./src/containers/PageLayout/PageData/index.js\",\"name\":\"./src/containers/PageLayout/PageData/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/containers/PageLayout/PageData/index.js\",\"name\":\"./src/containers/PageLayout/PageData/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"../../containers/PageLayout\":[{\"id\":\"./src/containers/PageLayout/index.js\",\"name\":\"./src/containers/PageLayout/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/containers/PageLayout/index.js\",\"name\":\"./src/containers/PageLayout/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"../../fonts/Roboto/Roboto-Black.ttf\":[{\"id\":\"./src/fonts/Roboto/Roboto-Black.ttf\",\"name\":\"./src/fonts/Roboto/Roboto-Black.ttf\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/fonts/Roboto/Roboto-Black.ttf\",\"name\":\"./src/fonts/Roboto/Roboto-Black.ttf\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"../../fonts/Roboto/Roboto-Light.ttf\":[{\"id\":\"./src/fonts/Roboto/Roboto-Light.ttf\",\"name\":\"./src/fonts/Roboto/Roboto-Light.ttf\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/fonts/Roboto/Roboto-Light.ttf\",\"name\":\"./src/fonts/Roboto/Roboto-Light.ttf\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"../../fonts/digital-display.ttf\":[{\"id\":\"./src/fonts/digital-display.ttf\",\"name\":\"./src/fonts/digital-display.ttf\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/fonts/digital-display.ttf\",\"name\":\"./src/fonts/digital-display.ttf\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./src/index.js\":[{\"id\":\"./src/index.js\",\"name\":\"./src/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/index.js\",\"name\":\"./src/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}]}");
+module.exports = JSON.parse("{\"./arrayLikeToArray.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/arrayLikeToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayLikeToArray.js\",\"file\":\"0-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/arrayLikeToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayLikeToArray.js\",\"file\":\"0-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js.map\"},{\"id\":\"./node_modules/@babel/runtime/helpers/arrayLikeToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayLikeToArray.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/arrayLikeToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayLikeToArray.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"}],\"./arrayWithHoles.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/arrayWithHoles.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayWithHoles.js\",\"file\":\"0-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/arrayWithHoles.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayWithHoles.js\",\"file\":\"0-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js.map\"},{\"id\":\"./node_modules/@babel/runtime/helpers/arrayWithHoles.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayWithHoles.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/arrayWithHoles.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayWithHoles.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"}],\"@babel/runtime/helpers/asyncToGenerator\":[{\"id\":\"./node_modules/@babel/runtime/helpers/asyncToGenerator.js\",\"name\":\"./node_modules/@babel/runtime/helpers/asyncToGenerator.js\",\"file\":\"0-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/asyncToGenerator.js\",\"name\":\"./node_modules/@babel/runtime/helpers/asyncToGenerator.js\",\"file\":\"0-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js.map\"}],\"./iterableToArrayLimit.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js\",\"name\":\"./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js\",\"file\":\"0-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js\",\"name\":\"./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js\",\"file\":\"0-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js.map\"},{\"id\":\"./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js\",\"name\":\"./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js\",\"name\":\"./node_modules/@babel/runtime/helpers/iterableToArrayLimit.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"}],\"./nonIterableRest.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/nonIterableRest.js\",\"name\":\"./node_modules/@babel/runtime/helpers/nonIterableRest.js\",\"file\":\"0-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/nonIterableRest.js\",\"name\":\"./node_modules/@babel/runtime/helpers/nonIterableRest.js\",\"file\":\"0-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js.map\"},{\"id\":\"./node_modules/@babel/runtime/helpers/nonIterableRest.js\",\"name\":\"./node_modules/@babel/runtime/helpers/nonIterableRest.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/nonIterableRest.js\",\"name\":\"./node_modules/@babel/runtime/helpers/nonIterableRest.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"}],\"../helpers/regeneratorRuntime\":[{\"id\":\"./node_modules/@babel/runtime/helpers/regeneratorRuntime.js\",\"name\":\"./node_modules/@babel/runtime/helpers/regeneratorRuntime.js\",\"file\":\"0-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/regeneratorRuntime.js\",\"name\":\"./node_modules/@babel/runtime/helpers/regeneratorRuntime.js\",\"file\":\"0-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js.map\"}],\"@babel/runtime/helpers/slicedToArray\":[{\"id\":\"./node_modules/@babel/runtime/helpers/slicedToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/slicedToArray.js\",\"file\":\"0-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/slicedToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/slicedToArray.js\",\"file\":\"0-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js.map\"},{\"id\":\"./node_modules/@babel/runtime/helpers/slicedToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/slicedToArray.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/slicedToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/slicedToArray.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"}],\"./unsupportedIterableToArray.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js\",\"file\":\"0-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js\",\"file\":\"0-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js.map\"},{\"id\":\"./node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"}],\"@babel/runtime/regenerator\":[{\"id\":\"./node_modules/@babel/runtime/regenerator/index.js\",\"name\":\"./node_modules/@babel/runtime/regenerator/index.js\",\"file\":\"0-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/regenerator/index.js\",\"name\":\"./node_modules/@babel/runtime/regenerator/index.js\",\"file\":\"0-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/0-bundle.js.map\"}],\"./arrayWithoutHoles.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/arrayWithoutHoles.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayWithoutHoles.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/arrayWithoutHoles.js\",\"name\":\"./node_modules/@babel/runtime/helpers/arrayWithoutHoles.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"}],\"@babel/runtime/helpers/defineProperty\":[{\"id\":\"./node_modules/@babel/runtime/helpers/defineProperty.js\",\"name\":\"./node_modules/@babel/runtime/helpers/defineProperty.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/defineProperty.js\",\"name\":\"./node_modules/@babel/runtime/helpers/defineProperty.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"}],\"./iterableToArray.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/iterableToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/iterableToArray.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/iterableToArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/iterableToArray.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"}],\"./nonIterableSpread.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/nonIterableSpread.js\",\"name\":\"./node_modules/@babel/runtime/helpers/nonIterableSpread.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/nonIterableSpread.js\",\"name\":\"./node_modules/@babel/runtime/helpers/nonIterableSpread.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"}],\"@babel/runtime/helpers/toConsumableArray\":[{\"id\":\"./node_modules/@babel/runtime/helpers/toConsumableArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/toConsumableArray.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/toConsumableArray.js\",\"name\":\"./node_modules/@babel/runtime/helpers/toConsumableArray.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"}],\"!!../../../node_modules/css-loader/dist/cjs.js??ref--5-1!../../../node_modules/postcss-loader/src/index.js??ref--5-2!../../../node_modules/sass-loader/dist/cjs.js??ref--5-3!./styles.scss\":[{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/BulletPoint/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/BulletPoint/styles.scss\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Dialer/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Dialer/styles.scss\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/EditDelete/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/EditDelete/styles.scss\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/GeneralPopup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/GeneralPopup/styles.scss\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Home/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Home/styles.scss\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/MessagePopup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/MessagePopup/styles.scss\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/RangeSlider/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/RangeSlider/styles.scss\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/TemperatureBar/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/TemperatureBar/styles.scss\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/ToggleSwitch/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/ToggleSwitch/styles.scss\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/BulletPoint/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/BulletPoint/styles.scss\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Dialer/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Dialer/styles.scss\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/EditDelete/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/EditDelete/styles.scss\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/GeneralPopup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/GeneralPopup/styles.scss\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Home/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Home/styles.scss\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/MessagePopup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/MessagePopup/styles.scss\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/RangeSlider/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/RangeSlider/styles.scss\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/TemperatureBar/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/TemperatureBar/styles.scss\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/ToggleSwitch/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/ToggleSwitch/styles.scss\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/GeneralPopup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/GeneralPopup/styles.scss\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/pageComponents/Header/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/pageComponents/Header/styles.scss\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/GeneralPopup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/GeneralPopup/styles.scss\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/pageComponents/Header/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/pageComponents/Header/styles.scss\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Words/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Words/styles.scss\",\"file\":\"3-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Words/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Words/styles.scss\",\"file\":\"3-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/pageComponents/Setup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/pageComponents/Setup/styles.scss\",\"file\":\"4-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/pageComponents/Setup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/pageComponents/Setup/styles.scss\",\"file\":\"4-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/pageComponents/About/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/pageComponents/About/styles.scss\",\"file\":\"5-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/5-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/pageComponents/About/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/pageComponents/About/styles.scss\",\"file\":\"5-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/5-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/App/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/App/styles.scss\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Loading/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Loading/styles.scss\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/containers/PageLayout/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/containers/PageLayout/styles.scss\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/App/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/App/styles.scss\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Loading/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Loading/styles.scss\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/containers/PageLayout/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/containers/PageLayout/styles.scss\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"!!../../../../node_modules/css-loader/dist/cjs.js??ref--5-1!../../../../node_modules/postcss-loader/src/index.js??ref--5-2!../../../../node_modules/sass-loader/dist/cjs.js??ref--5-3!./styles.scss\":[{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Home/AddPopup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Home/AddPopup/styles.scss\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Home/AddPopup/styles.scss\",\"name\":\"./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/dist/cjs.js?!./src/components/Home/AddPopup/styles.scss\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"}],\"../BulletPoint\":[{\"id\":\"./src/components/BulletPoint/index.js\",\"name\":\"./src/components/BulletPoint/index.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/components/BulletPoint/index.js\",\"name\":\"./src/components/BulletPoint/index.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"}],\"./styles.scss\":[{\"id\":\"./src/components/BulletPoint/styles.scss\",\"name\":\"./src/components/BulletPoint/styles.scss\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/components/Dialer/styles.scss\",\"name\":\"./src/components/Dialer/styles.scss\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/components/EditDelete/styles.scss\",\"name\":\"./src/components/EditDelete/styles.scss\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/components/GeneralPopup/styles.scss\",\"name\":\"./src/components/GeneralPopup/styles.scss\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/components/Home/AddPopup/styles.scss\",\"name\":\"./src/components/Home/AddPopup/styles.scss\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/components/Home/styles.scss\",\"name\":\"./src/components/Home/styles.scss\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/components/MessagePopup/styles.scss\",\"name\":\"./src/components/MessagePopup/styles.scss\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/components/RangeSlider/styles.scss\",\"name\":\"./src/components/RangeSlider/styles.scss\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/components/TemperatureBar/styles.scss\",\"name\":\"./src/components/TemperatureBar/styles.scss\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/components/ToggleSwitch/styles.scss\",\"name\":\"./src/components/ToggleSwitch/styles.scss\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/components/BulletPoint/styles.scss\",\"name\":\"./src/components/BulletPoint/styles.scss\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./src/components/Dialer/styles.scss\",\"name\":\"./src/components/Dialer/styles.scss\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./src/components/EditDelete/styles.scss\",\"name\":\"./src/components/EditDelete/styles.scss\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./src/components/GeneralPopup/styles.scss\",\"name\":\"./src/components/GeneralPopup/styles.scss\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./src/components/Home/AddPopup/styles.scss\",\"name\":\"./src/components/Home/AddPopup/styles.scss\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./src/components/Home/styles.scss\",\"name\":\"./src/components/Home/styles.scss\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./src/components/MessagePopup/styles.scss\",\"name\":\"./src/components/MessagePopup/styles.scss\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./src/components/RangeSlider/styles.scss\",\"name\":\"./src/components/RangeSlider/styles.scss\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./src/components/TemperatureBar/styles.scss\",\"name\":\"./src/components/TemperatureBar/styles.scss\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./src/components/ToggleSwitch/styles.scss\",\"name\":\"./src/components/ToggleSwitch/styles.scss\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./src/components/GeneralPopup/styles.scss\",\"name\":\"./src/components/GeneralPopup/styles.scss\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/pageComponents/Header/styles.scss\",\"name\":\"./src/pageComponents/Header/styles.scss\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/components/GeneralPopup/styles.scss\",\"name\":\"./src/components/GeneralPopup/styles.scss\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./src/pageComponents/Header/styles.scss\",\"name\":\"./src/pageComponents/Header/styles.scss\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"},{\"id\":\"./src/components/Words/styles.scss\",\"name\":\"./src/components/Words/styles.scss\",\"file\":\"3-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js\"},{\"id\":\"./src/components/Words/styles.scss\",\"name\":\"./src/components/Words/styles.scss\",\"file\":\"3-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js.map\"},{\"id\":\"./src/pageComponents/Setup/styles.scss\",\"name\":\"./src/pageComponents/Setup/styles.scss\",\"file\":\"4-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js\"},{\"id\":\"./src/pageComponents/Setup/styles.scss\",\"name\":\"./src/pageComponents/Setup/styles.scss\",\"file\":\"4-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js.map\"},{\"id\":\"./src/pageComponents/About/styles.scss\",\"name\":\"./src/pageComponents/About/styles.scss\",\"file\":\"5-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/5-bundle.js\"},{\"id\":\"./src/pageComponents/About/styles.scss\",\"name\":\"./src/pageComponents/About/styles.scss\",\"file\":\"5-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/5-bundle.js.map\"},{\"id\":\"./src/components/App/styles.scss\",\"name\":\"./src/components/App/styles.scss\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/components/Loading/styles.scss\",\"name\":\"./src/components/Loading/styles.scss\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/containers/PageLayout/styles.scss\",\"name\":\"./src/containers/PageLayout/styles.scss\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/components/App/styles.scss\",\"name\":\"./src/components/App/styles.scss\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"},{\"id\":\"./src/components/Loading/styles.scss\",\"name\":\"./src/components/Loading/styles.scss\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"},{\"id\":\"./src/containers/PageLayout/styles.scss\",\"name\":\"./src/containers/PageLayout/styles.scss\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"../Dialer\":[{\"id\":\"./src/components/Dialer/index.js\",\"name\":\"./src/components/Dialer/index.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/components/Dialer/index.js\",\"name\":\"./src/components/Dialer/index.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"}],\"../EditDelete\":[{\"id\":\"./src/components/EditDelete/index.js\",\"name\":\"./src/components/EditDelete/index.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/components/EditDelete/index.js\",\"name\":\"./src/components/EditDelete/index.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"}],\"../../components/GeneralPopup\":[{\"id\":\"./src/components/GeneralPopup/index.js\",\"name\":\"./src/components/GeneralPopup/index.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/components/GeneralPopup/index.js\",\"name\":\"./src/components/GeneralPopup/index.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./src/components/GeneralPopup/index.js\",\"name\":\"./src/components/GeneralPopup/index.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/components/GeneralPopup/index.js\",\"name\":\"./src/components/GeneralPopup/index.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"}],\"./AddPopup\":[{\"id\":\"./src/components/Home/AddPopup/index.js\",\"name\":\"./src/components/Home/AddPopup/index.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/components/Home/AddPopup/index.js\",\"name\":\"./src/components/Home/AddPopup/index.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"}],\"../../../components/Home\":[{\"id\":\"./src/components/Home/index.js\",\"name\":\"./src/components/Home/index.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/components/Home/index.js\",\"name\":\"./src/components/Home/index.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"}],\"../MessagePopup\":[{\"id\":\"./src/components/MessagePopup/index.js\",\"name\":\"./src/components/MessagePopup/index.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/components/MessagePopup/index.js\",\"name\":\"./src/components/MessagePopup/index.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"}],\"../RangeSlider\":[{\"id\":\"./src/components/RangeSlider/index.js\",\"name\":\"./src/components/RangeSlider/index.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/components/RangeSlider/index.js\",\"name\":\"./src/components/RangeSlider/index.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"}],\"../TemperatureBar\":[{\"id\":\"./src/components/TemperatureBar/index.js\",\"name\":\"./src/components/TemperatureBar/index.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/components/TemperatureBar/index.js\",\"name\":\"./src/components/TemperatureBar/index.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"}],\"../ToggleSwitch\":[{\"id\":\"./src/components/ToggleSwitch/index.js\",\"name\":\"./src/components/ToggleSwitch/index.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/components/ToggleSwitch/index.js\",\"name\":\"./src/components/ToggleSwitch/index.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"}],\"../../containers/EventsManager\":[{\"id\":\"./src/containers/EventsManager/index.js\",\"name\":\"./src/containers/EventsManager/index.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/containers/EventsManager/index.js\",\"name\":\"./src/containers/EventsManager/index.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./src/containers/EventsManager/index.js\",\"name\":\"./src/containers/EventsManager/index.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/containers/EventsManager/index.js\",\"name\":\"./src/containers/EventsManager/index.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"}],\"../../utils/Poster\":[{\"id\":\"./src/utils/Poster.js\",\"name\":\"./src/utils/Poster.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/utils/Poster.js\",\"name\":\"./src/utils/Poster.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./src/utils/Poster.js\",\"name\":\"./src/utils/Poster.js\",\"file\":\"3-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js\"},{\"id\":\"./src/utils/Poster.js\",\"name\":\"./src/utils/Poster.js\",\"file\":\"3-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js.map\"},{\"id\":\"./src/utils/Poster.js\",\"name\":\"./src/utils/Poster.js\",\"file\":\"4-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js\"},{\"id\":\"./src/utils/Poster.js\",\"name\":\"./src/utils/Poster.js\",\"file\":\"4-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js.map\"}],\"../../utils/getParams\":[{\"id\":\"./src/utils/getParams.js\",\"name\":\"./src/utils/getParams.js\",\"file\":\"1-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js\"},{\"id\":\"./src/utils/getParams.js\",\"name\":\"./src/utils/getParams.js\",\"file\":\"1-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/1-bundle.js.map\"},{\"id\":\"./src/utils/getParams.js\",\"name\":\"./src/utils/getParams.js\",\"file\":\"3-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js\"},{\"id\":\"./src/utils/getParams.js\",\"name\":\"./src/utils/getParams.js\",\"file\":\"3-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js.map\"},{\"id\":\"./src/utils/getParams.js\",\"name\":\"./src/utils/getParams.js\",\"file\":\"4-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js\"},{\"id\":\"./src/utils/getParams.js\",\"name\":\"./src/utils/getParams.js\",\"file\":\"4-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js.map\"}],\"../../../pageComponents/Header\":[{\"id\":\"./src/pageComponents/Header/index.js\",\"name\":\"./src/pageComponents/Header/index.js\",\"file\":\"2-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js\"},{\"id\":\"./src/pageComponents/Header/index.js\",\"name\":\"./src/pageComponents/Header/index.js\",\"file\":\"2-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/2-bundle.js.map\"}],\"./home.png\":[{\"id\":\"./src/components/Words/home.png\",\"name\":\"./src/components/Words/home.png\",\"file\":\"3-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js\"},{\"id\":\"./src/components/Words/home.png\",\"name\":\"./src/components/Words/home.png\",\"file\":\"3-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js.map\"},{\"id\":\"./src/pageComponents/Setup/home.png\",\"name\":\"./src/pageComponents/Setup/home.png\",\"file\":\"4-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js\"},{\"id\":\"./src/pageComponents/Setup/home.png\",\"name\":\"./src/pageComponents/Setup/home.png\",\"file\":\"4-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js.map\"}],\"../../../components/Words\":[{\"id\":\"./src/components/Words/index.js\",\"name\":\"./src/components/Words/index.js\",\"file\":\"3-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js\"},{\"id\":\"./src/components/Words/index.js\",\"name\":\"./src/components/Words/index.js\",\"file\":\"3-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/3-bundle.js.map\"}],\"../../../pageComponents/Setup\":[{\"id\":\"./src/pageComponents/Setup/index.js\",\"name\":\"./src/pageComponents/Setup/index.js\",\"file\":\"4-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js\"},{\"id\":\"./src/pageComponents/Setup/index.js\",\"name\":\"./src/pageComponents/Setup/index.js\",\"file\":\"4-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/4-bundle.js.map\"}],\"../../../pageComponents/About\":[{\"id\":\"./src/pageComponents/About/index.js\",\"name\":\"./src/pageComponents/About/index.js\",\"file\":\"5-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/5-bundle.js\"},{\"id\":\"./src/pageComponents/About/index.js\",\"name\":\"./src/pageComponents/About/index.js\",\"file\":\"5-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/5-bundle.js.map\"}],\"undefined\":[{\"id\":1,\"name\":null,\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack/hot sync ^\\\\.\\\\/log$\",\"name\":\"./node_modules/webpack/hot sync ^\\\\.\\\\/log$\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":1,\"name\":null,\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"},{\"id\":\"./node_modules/webpack/hot sync ^\\\\.\\\\/log$\",\"name\":\"./node_modules/webpack/hot sync ^\\\\.\\\\/log$\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./assertThisInitialized.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/assertThisInitialized.js\",\"name\":\"./node_modules/@babel/runtime/helpers/assertThisInitialized.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/assertThisInitialized.js\",\"name\":\"./node_modules/@babel/runtime/helpers/assertThisInitialized.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"@babel/runtime/helpers/classCallCheck\":[{\"id\":\"./node_modules/@babel/runtime/helpers/classCallCheck.js\",\"name\":\"./node_modules/@babel/runtime/helpers/classCallCheck.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/classCallCheck.js\",\"name\":\"./node_modules/@babel/runtime/helpers/classCallCheck.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"@babel/runtime/helpers/createClass\":[{\"id\":\"./node_modules/@babel/runtime/helpers/createClass.js\",\"name\":\"./node_modules/@babel/runtime/helpers/createClass.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/createClass.js\",\"name\":\"./node_modules/@babel/runtime/helpers/createClass.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"@babel/runtime/helpers/esm/extends\":[{\"id\":\"./node_modules/@babel/runtime/helpers/esm/extends.js\",\"name\":\"./node_modules/@babel/runtime/helpers/esm/extends.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/esm/extends.js\",\"name\":\"./node_modules/@babel/runtime/helpers/esm/extends.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"@babel/runtime/helpers/esm/inheritsLoose\":[{\"id\":\"./node_modules/@babel/runtime/helpers/esm/inheritsLoose.js\",\"name\":\"./node_modules/@babel/runtime/helpers/esm/inheritsLoose.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/esm/inheritsLoose.js\",\"name\":\"./node_modules/@babel/runtime/helpers/esm/inheritsLoose.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"@babel/runtime/helpers/esm/objectWithoutPropertiesLoose\":[{\"id\":\"./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js\",\"name\":\"./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js\",\"name\":\"./node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./setPrototypeOf.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js\",\"name\":\"./node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/setPrototypeOf.js\",\"name\":\"./node_modules/@babel/runtime/helpers/setPrototypeOf.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js\",\"name\":\"./node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"},{\"id\":\"./node_modules/@babel/runtime/helpers/setPrototypeOf.js\",\"name\":\"./node_modules/@babel/runtime/helpers/setPrototypeOf.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"@babel/runtime/helpers/extends\":[{\"id\":\"./node_modules/@babel/runtime/helpers/extends.js\",\"name\":\"./node_modules/@babel/runtime/helpers/extends.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/extends.js\",\"name\":\"./node_modules/@babel/runtime/helpers/extends.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"@babel/runtime/helpers/getPrototypeOf\":[{\"id\":\"./node_modules/@babel/runtime/helpers/getPrototypeOf.js\",\"name\":\"./node_modules/@babel/runtime/helpers/getPrototypeOf.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/getPrototypeOf.js\",\"name\":\"./node_modules/@babel/runtime/helpers/getPrototypeOf.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"@babel/runtime/helpers/inherits\":[{\"id\":\"./node_modules/@babel/runtime/helpers/inherits.js\",\"name\":\"./node_modules/@babel/runtime/helpers/inherits.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/inherits.js\",\"name\":\"./node_modules/@babel/runtime/helpers/inherits.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"@babel/runtime/helpers/possibleConstructorReturn\":[{\"id\":\"./node_modules/@babel/runtime/helpers/possibleConstructorReturn.js\",\"name\":\"./node_modules/@babel/runtime/helpers/possibleConstructorReturn.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/possibleConstructorReturn.js\",\"name\":\"./node_modules/@babel/runtime/helpers/possibleConstructorReturn.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./toPrimitive.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/toPrimitive.js\",\"name\":\"./node_modules/@babel/runtime/helpers/toPrimitive.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/toPrimitive.js\",\"name\":\"./node_modules/@babel/runtime/helpers/toPrimitive.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./toPropertyKey.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/toPropertyKey.js\",\"name\":\"./node_modules/@babel/runtime/helpers/toPropertyKey.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/toPropertyKey.js\",\"name\":\"./node_modules/@babel/runtime/helpers/toPropertyKey.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./typeof.js\":[{\"id\":\"./node_modules/@babel/runtime/helpers/typeof.js\",\"name\":\"./node_modules/@babel/runtime/helpers/typeof.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/@babel/runtime/helpers/typeof.js\",\"name\":\"./node_modules/@babel/runtime/helpers/typeof.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"ansi-html-community\":[{\"id\":\"./node_modules/ansi-html-community/index.js\",\"name\":\"./node_modules/ansi-html-community/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/ansi-html-community/index.js\",\"name\":\"./node_modules/ansi-html-community/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"../../../node_modules/css-loader/dist/runtime/api.js\":[{\"id\":\"./node_modules/css-loader/dist/runtime/api.js\",\"name\":\"./node_modules/css-loader/dist/runtime/api.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/runtime/api.js\",\"name\":\"./node_modules/css-loader/dist/runtime/api.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"../../../node_modules/css-loader/dist/runtime/getUrl.js\":[{\"id\":\"./node_modules/css-loader/dist/runtime/getUrl.js\",\"name\":\"./node_modules/css-loader/dist/runtime/getUrl.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/css-loader/dist/runtime/getUrl.js\",\"name\":\"./node_modules/css-loader/dist/runtime/getUrl.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"events\":[{\"id\":\"./node_modules/events/events.js\",\"name\":\"./node_modules/events/events.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/events/events.js\",\"name\":\"./node_modules/events/events.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"history\":[{\"id\":\"./node_modules/history/esm/history.js\",\"name\":\"./node_modules/history/esm/history.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/history/esm/history.js\",\"name\":\"./node_modules/history/esm/history.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"hoist-non-react-statics\":[{\"id\":\"./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js\",\"name\":\"./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js\",\"name\":\"./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./html4-entities\":[{\"id\":\"./node_modules/html-entities/lib/html4-entities.js\",\"name\":\"./node_modules/html-entities/lib/html4-entities.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/html-entities/lib/html4-entities.js\",\"name\":\"./node_modules/html-entities/lib/html4-entities.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./html5-entities\":[{\"id\":\"./node_modules/html-entities/lib/html5-entities.js\",\"name\":\"./node_modules/html-entities/lib/html5-entities.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/html-entities/lib/html5-entities.js\",\"name\":\"./node_modules/html-entities/lib/html5-entities.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"html-entities\":[{\"id\":\"./node_modules/html-entities/lib/index.js\",\"name\":\"./node_modules/html-entities/lib/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/html-entities/lib/index.js\",\"name\":\"./node_modules/html-entities/lib/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./surrogate-pairs\":[{\"id\":\"./node_modules/html-entities/lib/surrogate-pairs.js\",\"name\":\"./node_modules/html-entities/lib/surrogate-pairs.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/html-entities/lib/surrogate-pairs.js\",\"name\":\"./node_modules/html-entities/lib/surrogate-pairs.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./xml-entities\":[{\"id\":\"./node_modules/html-entities/lib/xml-entities.js\",\"name\":\"./node_modules/html-entities/lib/xml-entities.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/html-entities/lib/xml-entities.js\",\"name\":\"./node_modules/html-entities/lib/xml-entities.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"loglevel\":[{\"id\":\"./node_modules/loglevel/lib/loglevel.js\",\"name\":\"./node_modules/loglevel/lib/loglevel.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/loglevel/lib/loglevel.js\",\"name\":\"./node_modules/loglevel/lib/loglevel.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"punycode\":[{\"id\":\"./node_modules/node-libs-browser/node_modules/punycode/punycode.js\",\"name\":\"./node_modules/node-libs-browser/node_modules/punycode/punycode.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/node-libs-browser/node_modules/punycode/punycode.js\",\"name\":\"./node_modules/node-libs-browser/node_modules/punycode/punycode.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"object-assign\":[{\"id\":\"./node_modules/object-assign/index.js\",\"name\":\"./node_modules/object-assign/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/object-assign/index.js\",\"name\":\"./node_modules/object-assign/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"prop-types/checkPropTypes\":[{\"id\":\"./node_modules/prop-types/checkPropTypes.js\",\"name\":\"./node_modules/prop-types/checkPropTypes.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/prop-types/checkPropTypes.js\",\"name\":\"./node_modules/prop-types/checkPropTypes.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./factoryWithTypeCheckers\":[{\"id\":\"./node_modules/prop-types/factoryWithTypeCheckers.js\",\"name\":\"./node_modules/prop-types/factoryWithTypeCheckers.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/prop-types/factoryWithTypeCheckers.js\",\"name\":\"./node_modules/prop-types/factoryWithTypeCheckers.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"prop-types\":[{\"id\":\"./node_modules/prop-types/index.js\",\"name\":\"./node_modules/prop-types/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/prop-types/index.js\",\"name\":\"./node_modules/prop-types/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./lib/ReactPropTypesSecret\":[{\"id\":\"./node_modules/prop-types/lib/ReactPropTypesSecret.js\",\"name\":\"./node_modules/prop-types/lib/ReactPropTypesSecret.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/prop-types/lib/ReactPropTypesSecret.js\",\"name\":\"./node_modules/prop-types/lib/ReactPropTypesSecret.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./lib/has\":[{\"id\":\"./node_modules/prop-types/lib/has.js\",\"name\":\"./node_modules/prop-types/lib/has.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/prop-types/lib/has.js\",\"name\":\"./node_modules/prop-types/lib/has.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./decode\":[{\"id\":\"./node_modules/querystring-es3/decode.js\",\"name\":\"./node_modules/querystring-es3/decode.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/querystring-es3/decode.js\",\"name\":\"./node_modules/querystring-es3/decode.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./encode\":[{\"id\":\"./node_modules/querystring-es3/encode.js\",\"name\":\"./node_modules/querystring-es3/encode.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/querystring-es3/encode.js\",\"name\":\"./node_modules/querystring-es3/encode.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"querystring\":[{\"id\":\"./node_modules/querystring-es3/index.js\",\"name\":\"./node_modules/querystring-es3/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/querystring-es3/index.js\",\"name\":\"./node_modules/querystring-es3/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./cjs/react-dom.development.js\":[{\"id\":\"./node_modules/react-dom/cjs/react-dom.development.js\",\"name\":\"./node_modules/react-dom/cjs/react-dom.development.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/react-dom/cjs/react-dom.development.js\",\"name\":\"./node_modules/react-dom/cjs/react-dom.development.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"react-dom\":[{\"id\":\"./node_modules/react-dom/index.js\",\"name\":\"./node_modules/react-dom/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/react-dom/index.js\",\"name\":\"./node_modules/react-dom/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./cjs/react-is.development.js\":[{\"id\":\"./node_modules/react-is/cjs/react-is.development.js\",\"name\":\"./node_modules/react-is/cjs/react-is.development.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/react-is/cjs/react-is.development.js\",\"name\":\"./node_modules/react-is/cjs/react-is.development.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"react-is\":[{\"id\":\"./node_modules/react-is/index.js\",\"name\":\"./node_modules/react-is/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/react-is/index.js\",\"name\":\"./node_modules/react-is/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"react-loadable\":[{\"id\":\"./node_modules/react-loadable/lib/index.js\",\"name\":\"./node_modules/react-loadable/lib/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/react-loadable/lib/index.js\",\"name\":\"./node_modules/react-loadable/lib/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"react-router-dom\":[{\"id\":\"./node_modules/react-router-dom/esm/react-router-dom.js\",\"name\":\"./node_modules/react-router-dom/esm/react-router-dom.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/react-router-dom/esm/react-router-dom.js\",\"name\":\"./node_modules/react-router-dom/esm/react-router-dom.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"react-router\":[{\"id\":\"./node_modules/react-router/esm/react-router.js\",\"name\":\"./node_modules/react-router/esm/react-router.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/react-router/esm/react-router.js\",\"name\":\"./node_modules/react-router/esm/react-router.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"isarray\":[{\"id\":\"./node_modules/react-router/node_modules/isarray/index.js\",\"name\":\"./node_modules/react-router/node_modules/isarray/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/react-router/node_modules/isarray/index.js\",\"name\":\"./node_modules/react-router/node_modules/isarray/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"path-to-regexp\":[{\"id\":\"./node_modules/react-router/node_modules/path-to-regexp/index.js\",\"name\":\"./node_modules/react-router/node_modules/path-to-regexp/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/react-router/node_modules/path-to-regexp/index.js\",\"name\":\"./node_modules/react-router/node_modules/path-to-regexp/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./cjs/react.development.js\":[{\"id\":\"./node_modules/react/cjs/react.development.js\",\"name\":\"./node_modules/react/cjs/react.development.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/react/cjs/react.development.js\",\"name\":\"./node_modules/react/cjs/react.development.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"react\":[{\"id\":\"./node_modules/react/index.js\",\"name\":\"./node_modules/react/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/react/index.js\",\"name\":\"./node_modules/react/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"resolve-pathname\":[{\"id\":\"./node_modules/resolve-pathname/esm/resolve-pathname.js\",\"name\":\"./node_modules/resolve-pathname/esm/resolve-pathname.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/resolve-pathname/esm/resolve-pathname.js\",\"name\":\"./node_modules/resolve-pathname/esm/resolve-pathname.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./cjs/scheduler-tracing.development.js\":[{\"id\":\"./node_modules/scheduler/cjs/scheduler-tracing.development.js\",\"name\":\"./node_modules/scheduler/cjs/scheduler-tracing.development.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/scheduler/cjs/scheduler-tracing.development.js\",\"name\":\"./node_modules/scheduler/cjs/scheduler-tracing.development.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./cjs/scheduler.development.js\":[{\"id\":\"./node_modules/scheduler/cjs/scheduler.development.js\",\"name\":\"./node_modules/scheduler/cjs/scheduler.development.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/scheduler/cjs/scheduler.development.js\",\"name\":\"./node_modules/scheduler/cjs/scheduler.development.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"scheduler\":[{\"id\":\"./node_modules/scheduler/index.js\",\"name\":\"./node_modules/scheduler/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/scheduler/index.js\",\"name\":\"./node_modules/scheduler/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"scheduler/tracing\":[{\"id\":\"./node_modules/scheduler/tracing.js\",\"name\":\"./node_modules/scheduler/tracing.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/scheduler/tracing.js\",\"name\":\"./node_modules/scheduler/tracing.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"sockjs-client/dist/sockjs\":[{\"id\":\"./node_modules/sockjs-client/dist/sockjs.js\",\"name\":\"./node_modules/sockjs-client/dist/sockjs.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/sockjs-client/dist/sockjs.js\",\"name\":\"./node_modules/sockjs-client/dist/sockjs.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"!../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js\":[{\"id\":\"./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js\",\"name\":\"./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js\",\"name\":\"./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"tiny-invariant\":[{\"id\":\"./node_modules/tiny-invariant/dist/tiny-invariant.esm.js\",\"name\":\"./node_modules/tiny-invariant/dist/tiny-invariant.esm.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/tiny-invariant/dist/tiny-invariant.esm.js\",\"name\":\"./node_modules/tiny-invariant/dist/tiny-invariant.esm.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"tiny-warning\":[{\"id\":\"./node_modules/tiny-warning/dist/tiny-warning.esm.js\",\"name\":\"./node_modules/tiny-warning/dist/tiny-warning.esm.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/tiny-warning/dist/tiny-warning.esm.js\",\"name\":\"./node_modules/tiny-warning/dist/tiny-warning.esm.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./Cookies\":[{\"id\":\"./node_modules/universal-cookie/es6/Cookies.js\",\"name\":\"./node_modules/universal-cookie/es6/Cookies.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/universal-cookie/es6/Cookies.js\",\"name\":\"./node_modules/universal-cookie/es6/Cookies.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"universal-cookie\":[{\"id\":\"./node_modules/universal-cookie/es6/index.js\",\"name\":\"./node_modules/universal-cookie/es6/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/universal-cookie/es6/index.js\",\"name\":\"./node_modules/universal-cookie/es6/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./utils\":[{\"id\":\"./node_modules/universal-cookie/es6/utils.js\",\"name\":\"./node_modules/universal-cookie/es6/utils.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/universal-cookie/es6/utils.js\",\"name\":\"./node_modules/universal-cookie/es6/utils.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"cookie\":[{\"id\":\"./node_modules/universal-cookie/node_modules/cookie/index.js\",\"name\":\"./node_modules/universal-cookie/node_modules/cookie/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/universal-cookie/node_modules/cookie/index.js\",\"name\":\"./node_modules/universal-cookie/node_modules/cookie/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"url\":[{\"id\":\"./node_modules/url/url.js\",\"name\":\"./node_modules/url/url.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/url/url.js\",\"name\":\"./node_modules/url/url.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./util\":[{\"id\":\"./node_modules/url/util.js\",\"name\":\"./node_modules/url/util.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/url/util.js\",\"name\":\"./node_modules/url/util.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"value-equal\":[{\"id\":\"./node_modules/value-equal/esm/value-equal.js\",\"name\":\"./node_modules/value-equal/esm/value-equal.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/value-equal/esm/value-equal.js\",\"name\":\"./node_modules/value-equal/esm/value-equal.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./BaseClient\":[{\"id\":\"./node_modules/webpack-dev-server/client/clients/BaseClient.js\",\"name\":\"./node_modules/webpack-dev-server/client/clients/BaseClient.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/client/clients/BaseClient.js\",\"name\":\"./node_modules/webpack-dev-server/client/clients/BaseClient.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"/Users/toninichev/workspace/nodeJS/projects-sparkjs-v2/web-app/node_modules/webpack-dev-server/client/clients/SockJSClient.js\":[{\"id\":\"./node_modules/webpack-dev-server/client/clients/SockJSClient.js\",\"name\":\"./node_modules/webpack-dev-server/client/clients/SockJSClient.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/client/clients/SockJSClient.js\",\"name\":\"./node_modules/webpack-dev-server/client/clients/SockJSClient.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"/Users/toninichev/workspace/nodeJS/projects-sparkjs-v2/web-app/node_modules/webpack-dev-server/client/index.js?http://0.0.0.0:8084\":[{\"id\":\"./node_modules/webpack-dev-server/client/index.js?http://0.0.0.0:8084\",\"name\":\"./node_modules/webpack-dev-server/client/index.js?http://0.0.0.0:8084\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/client/index.js?http://0.0.0.0:8084\",\"name\":\"./node_modules/webpack-dev-server/client/index.js?http://0.0.0.0:8084\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./overlay\":[{\"id\":\"./node_modules/webpack-dev-server/client/overlay.js\",\"name\":\"./node_modules/webpack-dev-server/client/overlay.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/client/overlay.js\",\"name\":\"./node_modules/webpack-dev-server/client/overlay.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./socket\":[{\"id\":\"./node_modules/webpack-dev-server/client/socket.js\",\"name\":\"./node_modules/webpack-dev-server/client/socket.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/client/socket.js\",\"name\":\"./node_modules/webpack-dev-server/client/socket.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./utils/createSocketUrl\":[{\"id\":\"./node_modules/webpack-dev-server/client/utils/createSocketUrl.js\",\"name\":\"./node_modules/webpack-dev-server/client/utils/createSocketUrl.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/client/utils/createSocketUrl.js\",\"name\":\"./node_modules/webpack-dev-server/client/utils/createSocketUrl.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./getCurrentScriptSource\":[{\"id\":\"./node_modules/webpack-dev-server/client/utils/getCurrentScriptSource.js\",\"name\":\"./node_modules/webpack-dev-server/client/utils/getCurrentScriptSource.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/client/utils/getCurrentScriptSource.js\",\"name\":\"./node_modules/webpack-dev-server/client/utils/getCurrentScriptSource.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./utils/log\":[{\"id\":\"./node_modules/webpack-dev-server/client/utils/log.js\",\"name\":\"./node_modules/webpack-dev-server/client/utils/log.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/client/utils/log.js\",\"name\":\"./node_modules/webpack-dev-server/client/utils/log.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./utils/reloadApp\":[{\"id\":\"./node_modules/webpack-dev-server/client/utils/reloadApp.js\",\"name\":\"./node_modules/webpack-dev-server/client/utils/reloadApp.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/client/utils/reloadApp.js\",\"name\":\"./node_modules/webpack-dev-server/client/utils/reloadApp.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./utils/sendMessage\":[{\"id\":\"./node_modules/webpack-dev-server/client/utils/sendMessage.js\",\"name\":\"./node_modules/webpack-dev-server/client/utils/sendMessage.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/client/utils/sendMessage.js\",\"name\":\"./node_modules/webpack-dev-server/client/utils/sendMessage.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"ansi-regex\":[{\"id\":\"./node_modules/webpack-dev-server/node_modules/ansi-regex/index.js\",\"name\":\"./node_modules/webpack-dev-server/node_modules/ansi-regex/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/node_modules/ansi-regex/index.js\",\"name\":\"./node_modules/webpack-dev-server/node_modules/ansi-regex/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"strip-ansi\":[{\"id\":\"./node_modules/webpack-dev-server/node_modules/strip-ansi/index.js\",\"name\":\"./node_modules/webpack-dev-server/node_modules/strip-ansi/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack-dev-server/node_modules/strip-ansi/index.js\",\"name\":\"./node_modules/webpack-dev-server/node_modules/strip-ansi/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./../../../webpack/buildin/global.js\":[{\"id\":\"./node_modules/webpack/buildin/global.js\",\"name\":\"./node_modules/webpack/buildin/global.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack/buildin/global.js\",\"name\":\"./node_modules/webpack/buildin/global.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./../../../webpack/buildin/module.js\":[{\"id\":\"./node_modules/webpack/buildin/module.js\",\"name\":\"./node_modules/webpack/buildin/module.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack/buildin/module.js\",\"name\":\"./node_modules/webpack/buildin/module.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"/Users/toninichev/workspace/nodeJS/projects-sparkjs-v2/web-app/node_modules/webpack/hot/dev-server.js\":[{\"id\":\"./node_modules/webpack/hot/dev-server.js\",\"name\":\"./node_modules/webpack/hot/dev-server.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack/hot/dev-server.js\",\"name\":\"./node_modules/webpack/hot/dev-server.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./emitter\":[{\"id\":\"./node_modules/webpack/hot/emitter.js\",\"name\":\"./node_modules/webpack/hot/emitter.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack/hot/emitter.js\",\"name\":\"./node_modules/webpack/hot/emitter.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./log-apply-result\":[{\"id\":\"./node_modules/webpack/hot/log-apply-result.js\",\"name\":\"./node_modules/webpack/hot/log-apply-result.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack/hot/log-apply-result.js\",\"name\":\"./node_modules/webpack/hot/log-apply-result.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./log\":[{\"id\":\"./node_modules/webpack/hot/log.js\",\"name\":\"./node_modules/webpack/hot/log.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./node_modules/webpack/hot/log.js\",\"name\":\"./node_modules/webpack/hot/log.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./components/App\":[{\"id\":\"./src/components/App/index.js\",\"name\":\"./src/components/App/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/components/App/index.js\",\"name\":\"./src/components/App/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"../../../components/Loading\":[{\"id\":\"./src/components/Loading/index.js\",\"name\":\"./src/components/Loading/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/components/Loading/index.js\",\"name\":\"./src/components/Loading/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./ComponentList\":[{\"id\":\"./src/containers/PageLayout/ComponentList/index.js\",\"name\":\"./src/containers/PageLayout/ComponentList/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/containers/PageLayout/ComponentList/index.js\",\"name\":\"./src/containers/PageLayout/ComponentList/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./PageData\":[{\"id\":\"./src/containers/PageLayout/PageData/index.js\",\"name\":\"./src/containers/PageLayout/PageData/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/containers/PageLayout/PageData/index.js\",\"name\":\"./src/containers/PageLayout/PageData/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"../../containers/PageLayout\":[{\"id\":\"./src/containers/PageLayout/index.js\",\"name\":\"./src/containers/PageLayout/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/containers/PageLayout/index.js\",\"name\":\"./src/containers/PageLayout/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"../../fonts/Roboto/Roboto-Black.ttf\":[{\"id\":\"./src/fonts/Roboto/Roboto-Black.ttf\",\"name\":\"./src/fonts/Roboto/Roboto-Black.ttf\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/fonts/Roboto/Roboto-Black.ttf\",\"name\":\"./src/fonts/Roboto/Roboto-Black.ttf\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"../../fonts/Roboto/Roboto-Light.ttf\":[{\"id\":\"./src/fonts/Roboto/Roboto-Light.ttf\",\"name\":\"./src/fonts/Roboto/Roboto-Light.ttf\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/fonts/Roboto/Roboto-Light.ttf\",\"name\":\"./src/fonts/Roboto/Roboto-Light.ttf\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"../../fonts/digital-display.ttf\":[{\"id\":\"./src/fonts/digital-display.ttf\",\"name\":\"./src/fonts/digital-display.ttf\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/fonts/digital-display.ttf\",\"name\":\"./src/fonts/digital-display.ttf\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}],\"./src/index.js\":[{\"id\":\"./src/index.js\",\"name\":\"./src/index.js\",\"file\":\"main-bundle.js\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js\"},{\"id\":\"./src/index.js\",\"name\":\"./src/index.js\",\"file\":\"main-bundle.js.map\",\"publicPath\":\"http://toni-develops.com:8084/dist/main-bundle.js.map\"}]}");
 
 /***/ }),
 
@@ -787,18 +787,14 @@ var sendResponse = function sendResponse(res, responseString) {
  */
 var requestDataFromAPI = /*#__PURE__*/function () {
   var _ref = _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_0___default()( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_1___default.a.mark(function _callee(req, res, usersData, next) {
+    var _PageData$req$pathnam;
     return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_1___default.a.wrap(function _callee$(_context) {
       while (1) switch (_context.prev = _context.next) {
         case 0:
           req.parsedUrl = url.parse(req.url);
           req.pathname = req.parsedUrl.pathname;
-          req.template = _src_containers_PageLayout_PageData__WEBPACK_IMPORTED_MODULE_2__["default"][req.pathname].template;
+          req.template = ((_PageData$req$pathnam = _src_containers_PageLayout_PageData__WEBPACK_IMPORTED_MODULE_2__["default"][req.pathname]) === null || _PageData$req$pathnam === void 0 ? void 0 : _PageData$req$pathnam.template) || null;
           req.parsedQs = querystring.parse(req.parsedUrl.query);
-
-          //const validDataObj = stringToObject(parsedQs.data); // device(s) ids 
-
-          // shortcut to run setup without credentials !!! REMOVE IT ONCE DONE !
-          //req.templateName = 'Html'; 
           req.apiData = {};
           next();
         case 6:
@@ -1204,245 +1200,6 @@ var updateUser = /*#__PURE__*/function () {
   };
 }();
 
-
-/***/ }),
-
-/***/ "./src/components/About/index.js":
-/*!***************************************!*\
-  !*** ./src/components/About/index.js ***!
-  \***************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _styles_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./styles.scss */ "./src/components/About/styles.scss");
-/* harmony import */ var _styles_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_scss__WEBPACK_IMPORTED_MODULE_1__);
-
-
-function About() {
-  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: _styles_scss__WEBPACK_IMPORTED_MODULE_1___default.a.wrapper
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, "this is the about Page component"));
-}
-/* harmony default export */ __webpack_exports__["default"] = (About);
-
-/***/ }),
-
-/***/ "./src/components/About/styles.scss":
-/*!******************************************!*\
-  !*** ./src/components/About/styles.scss ***!
-  \******************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-// extracted by mini-css-extract-plugin
-module.exports = {"wrapper":"About-wrapper--1QYIH"};
-
-/***/ }),
-
-/***/ "./src/components/Account/index.js":
-/*!*****************************************!*\
-  !*** ./src/components/Account/index.js ***!
-  \*****************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/asyncToGenerator */ "@babel/runtime/helpers/asyncToGenerator");
-/* harmony import */ var _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _babel_runtime_helpers_classCallCheck__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime/helpers/classCallCheck */ "@babel/runtime/helpers/classCallCheck");
-/* harmony import */ var _babel_runtime_helpers_classCallCheck__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_classCallCheck__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _babel_runtime_helpers_createClass__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @babel/runtime/helpers/createClass */ "@babel/runtime/helpers/createClass");
-/* harmony import */ var _babel_runtime_helpers_createClass__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_createClass__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _babel_runtime_helpers_inherits__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @babel/runtime/helpers/inherits */ "@babel/runtime/helpers/inherits");
-/* harmony import */ var _babel_runtime_helpers_inherits__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inherits__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _babel_runtime_helpers_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime/helpers/possibleConstructorReturn */ "@babel/runtime/helpers/possibleConstructorReturn");
-/* harmony import */ var _babel_runtime_helpers_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var _babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime/helpers/getPrototypeOf */ "@babel/runtime/helpers/getPrototypeOf");
-/* harmony import */ var _babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime/regenerator */ "@babel/runtime/regenerator");
-/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_6__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_7__);
-/* harmony import */ var _styles_scss__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./styles.scss */ "./src/components/Account/styles.scss");
-/* harmony import */ var _styles_scss__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_styles_scss__WEBPACK_IMPORTED_MODULE_8__);
-/* harmony import */ var _utils_Poster__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../../utils/Poster */ "./src/utils/Poster.js");
-/* harmony import */ var universal_cookie__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! universal-cookie */ "universal-cookie");
-/* harmony import */ var universal_cookie__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(universal_cookie__WEBPACK_IMPORTED_MODULE_10__);
-/* harmony import */ var _utils_getParams__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../../utils/getParams */ "./src/utils/getParams.js");
-/* harmony import */ var _MessagePopup__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../MessagePopup */ "./src/components/MessagePopup/index.js");
-
-
-
-
-
-
-
-function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function _createSuperInternal() { var Super = _babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_5___default()(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = _babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_5___default()(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return _babel_runtime_helpers_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_4___default()(this, result); }; }
-function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Reflect.construct) return false; if (Reflect.construct.sham) return false; if (typeof Proxy === "function") return true; try { Boolean.prototype.valueOf.call(Reflect.construct(Boolean, [], function () {})); return true; } catch (e) { return false; } }
-
-
-
-
-
-
-var SignIn = /*#__PURE__*/function (_Component) {
-  _babel_runtime_helpers_inherits__WEBPACK_IMPORTED_MODULE_3___default()(SignIn, _Component);
-  var _super = _createSuper(SignIn);
-  function SignIn(props) {
-    var _this;
-    _babel_runtime_helpers_classCallCheck__WEBPACK_IMPORTED_MODULE_1___default()(this, SignIn);
-    _this = _super.call(this, props);
-    if (typeof window !== 'undefined') {
-      window.redirect = function (hubId) {
-        location.href = "/home?data=[\"".concat(hubId, "\"]");
-      };
-    }
-    _this.cookies = new universal_cookie__WEBPACK_IMPORTED_MODULE_10___default.a();
-    _this.state = {
-      popupVisible: false,
-      popupMessage: '',
-      logInPopupVisible: true
-    };
-    return _this;
-  }
-  _babel_runtime_helpers_createClass__WEBPACK_IMPORTED_MODULE_2___default()(SignIn, [{
-    key: "closeMessagePopup",
-    value: function closeMessagePopup() {
-      this.setState({
-        popupVisible: !this.state.popupVisible
-      });
-    }
-  }, {
-    key: "showLogInPopup",
-    value: function showLogInPopup() {
-      this.setState({
-        logInPopupVisible: true
-      });
-    }
-  }, {
-    key: "showSignInPopup",
-    value: function showSignInPopup() {
-      this.setState({
-        logInPopupVisible: false
-      });
-    }
-  }, {
-    key: "updateUser",
-    value: function () {
-      var _updateUser = _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_0___default()( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_6___default.a.mark(function _callee() {
-        var userFromCookie, postData, result, popupMsg;
-        return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_6___default.a.wrap(function _callee$(_context) {
-          while (1) switch (_context.prev = _context.next) {
-            case 0:
-              if (!(document.querySelector('input[type="password"][name="oldPassword"]').value === '')) {
-                _context.next = 4;
-                break;
-              }
-              this.setState({
-                popupMessage: 'Please enter the old password!'
-              });
-              this.setState({
-                popupVisible: true
-              });
-              return _context.abrupt("return");
-            case 4:
-              if (!(document.querySelector('input[type="password"][name="newPassword"]').value === '')) {
-                _context.next = 8;
-                break;
-              }
-              this.setState({
-                popupMessage: 'Please enter the new password!'
-              });
-              this.setState({
-                popupVisible: true
-              });
-              return _context.abrupt("return");
-            case 8:
-              userFromCookie = this.cookies.get('user');
-              postData = {
-                email: userFromCookie.email,
-                accessToken: userFromCookie.accessToken,
-                oldPassword: document.querySelector('input[type="password"][name="oldPassword"]').value,
-                newPassword: document.querySelector('input[type="password"][name="newPassword"]').value
-              };
-              _context.next = 12;
-              return Object(_utils_Poster__WEBPACK_IMPORTED_MODULE_9__["default"])("".concat(_utils_getParams__WEBPACK_IMPORTED_MODULE_11__["userApiUrl"], "/update-user"), postData);
-            case 12:
-              result = _context.sent;
-              popupMsg = result.message;
-              if (typeof result.errorCode === 'undefined') {
-                popupMsg += '<p><button onclick="location.reload()">SIGN IN</button></p>';
-              }
-              this.setState({
-                popupMessage: popupMsg
-              });
-              this.setState({
-                popupVisible: true
-              });
-            case 17:
-            case "end":
-              return _context.stop();
-          }
-        }, _callee, this);
-      }));
-      function updateUser() {
-        return _updateUser.apply(this, arguments);
-      }
-      return updateUser;
-    }()
-  }, {
-    key: "render",
-    value: function render() {
-      var _this2 = this;
-      return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("div", {
-        className: _styles_scss__WEBPACK_IMPORTED_MODULE_8___default.a.wrapper
-      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("div", {
-        className: ['signIn']
-      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("h1", null, "Update password"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("div", {
-        className: _styles_scss__WEBPACK_IMPORTED_MODULE_8___default.a.userFieldsContainer
-      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("label", null, "Old Password"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("input", {
-        type: "password",
-        placeholder: "Old Password",
-        name: "oldPassword",
-        required: true
-      }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("label", null, "New Password"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("input", {
-        type: "password",
-        placeholder: "New Password",
-        name: "newPassword",
-        required: true
-      }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("button", {
-        type: "button",
-        onClick: function onClick() {
-          _this2.updateUser();
-        }
-      }, "UPDATE"))), this.state.popupVisible && /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement(_MessagePopup__WEBPACK_IMPORTED_MODULE_12__["default"], {
-        msg: this.state.popupMessage,
-        closeMessagePopup: function closeMessagePopup() {
-          return _this2.closeMessagePopup();
-        }
-      }));
-    }
-  }]);
-  return SignIn;
-}(react__WEBPACK_IMPORTED_MODULE_7__["Component"]);
-/* harmony default export */ __webpack_exports__["default"] = (SignIn);
-
-/***/ }),
-
-/***/ "./src/components/Account/styles.scss":
-/*!********************************************!*\
-  !*** ./src/components/Account/styles.scss ***!
-  \********************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-// extracted by mini-css-extract-plugin
-module.exports = {"wrapper":"Account-wrapper--2DarR","userFieldsContainer":"Account-userFieldsContainer--3Rlg6"};
 
 /***/ }),
 
@@ -1874,77 +1631,6 @@ var Renderer = function Renderer(_ref) {
 
 // extracted by mini-css-extract-plugin
 module.exports = {"modal":"GeneralPopup-modal--OnTgp","modalContent":"GeneralPopup-modalContent--1NTQT","close":"GeneralPopup-close--3VIzC","message":"GeneralPopup-message--3VEhO"};
-
-/***/ }),
-
-/***/ "./src/components/Header/index.js":
-/*!****************************************!*\
-  !*** ./src/components/Header/index.js ***!
-  \****************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-router-dom */ "react-router-dom");
-/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_router_dom__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _styles_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./styles.scss */ "./src/components/Header/styles.scss");
-/* harmony import */ var _styles_scss__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_styles_scss__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _GeneralPopup__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../GeneralPopup */ "./src/components/GeneralPopup/index.js");
-/* harmony import */ var _containers_EventsManager__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../containers/EventsManager */ "./src/containers/EventsManager/index.js");
-
-
-
-
-
-var selectedFlagsList = [];
-var getSelectedList = function getSelectedList() {
-  return selectedFlagsList;
-};
-var setSelectedList = function setSelectedList(id) {
-  selectedFlagsList[id] = true;
-};
-var unsetSelectedList = function unsetSelectedList(id) {
-  delete selectedFlagsList[id];
-};
-_containers_EventsManager__WEBPACK_IMPORTED_MODULE_4__["default"].registerEvent('getSelectedList', getSelectedList);
-_containers_EventsManager__WEBPACK_IMPORTED_MODULE_4__["default"].registerEvent('setSelectedList', setSelectedList);
-_containers_EventsManager__WEBPACK_IMPORTED_MODULE_4__["default"].registerEvent('unsetSelectedList', unsetSelectedList);
-var Header = function Header(_ref) {
-  var title = _ref.title;
-  var _useLocation = Object(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["useLocation"])(),
-    search = _useLocation.search;
-  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: _styles_scss__WEBPACK_IMPORTED_MODULE_2___default.a.wrapper
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Link"], {
-    to: "/home".concat(search)
-  }, "DEVICES")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Link"], {
-    to: "/account".concat(search)
-  }, "ACCOUNT")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Link"], {
-    to: "/setup".concat(search)
-  }, "SETTINGS")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Link"], {
-    to: "/about".concat(search)
-  }, "ABOUT")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Link"], {
-    to: "/sign-out".concat(search)
-  }, "SIGN OUT")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_GeneralPopup__WEBPACK_IMPORTED_MODULE_3__["default"], {
-    showPopup: false
-  }));
-};
-/* harmony default export */ __webpack_exports__["default"] = (Header);
-
-/***/ }),
-
-/***/ "./src/components/Header/styles.scss":
-/*!*******************************************!*\
-  !*** ./src/components/Header/styles.scss ***!
-  \*******************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-// extracted by mini-css-extract-plugin
-module.exports = {"wrapper":"Header-wrapper--2UICB","active":"Header-active--15lr3"};
 
 /***/ }),
 
@@ -2641,645 +2327,6 @@ module.exports = {"wrapper":"RangeSlider-wrapper--3QGS7","labels":"RangeSlider-l
 
 /***/ }),
 
-/***/ "./src/components/Setup/index.js":
-/*!***************************************!*\
-  !*** ./src/components/Setup/index.js ***!
-  \***************************************/
-/*! exports provided: Setup, default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Setup", function() { return Setup; });
-/* harmony import */ var _babel_runtime_helpers_slicedToArray__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/slicedToArray */ "@babel/runtime/helpers/slicedToArray");
-/* harmony import */ var _babel_runtime_helpers_slicedToArray__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_slicedToArray__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime/helpers/asyncToGenerator */ "@babel/runtime/helpers/asyncToGenerator");
-/* harmony import */ var _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @babel/runtime/regenerator */ "@babel/runtime/regenerator");
-/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _styles_scss__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./styles.scss */ "./src/components/Setup/styles.scss");
-/* harmony import */ var _styles_scss__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_styles_scss__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var _utils_Poster__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../utils/Poster */ "./src/utils/Poster.js");
-/* harmony import */ var _utils_getParams__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../utils/getParams */ "./src/utils/getParams.js");
-
-
-
-
-
-
-
-var setupFullDatabase = /*#__PURE__*/function () {
-  var _ref = _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1___default()( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2___default.a.mark(function _callee() {
-    var result;
-    return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2___default.a.wrap(function _callee$(_context) {
-      while (1) switch (_context.prev = _context.next) {
-        case 0:
-          _context.next = 2;
-          return Object(_utils_Poster__WEBPACK_IMPORTED_MODULE_5__["default"])("".concat(_utils_getParams__WEBPACK_IMPORTED_MODULE_6__["apiUrl"], "/setup-full"), {});
-        case 2:
-          result = _context.sent;
-          console.log(result);
-        case 4:
-        case "end":
-          return _context.stop();
-      }
-    }, _callee);
-  }));
-  return function setupFullDatabase() {
-    return _ref.apply(this, arguments);
-  };
-}();
-var setupDatabase = /*#__PURE__*/function () {
-  var _ref2 = _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1___default()( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2___default.a.mark(function _callee2() {
-    var result;
-    return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2___default.a.wrap(function _callee2$(_context2) {
-      while (1) switch (_context2.prev = _context2.next) {
-        case 0:
-          _context2.next = 2;
-          return Object(_utils_Poster__WEBPACK_IMPORTED_MODULE_5__["default"])("".concat(_utils_getParams__WEBPACK_IMPORTED_MODULE_6__["apiUrl"], "/setup"), {});
-        case 2:
-          result = _context2.sent;
-          console.log(result);
-        case 4:
-        case "end":
-          return _context2.stop();
-      }
-    }, _callee2);
-  }));
-  return function setupDatabase() {
-    return _ref2.apply(this, arguments);
-  };
-}();
-var setupHubsDatabase = /*#__PURE__*/function () {
-  var _ref3 = _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1___default()( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2___default.a.mark(function _callee3() {
-    var result;
-    return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2___default.a.wrap(function _callee3$(_context3) {
-      while (1) switch (_context3.prev = _context3.next) {
-        case 0:
-          _context3.next = 2;
-          return Object(_utils_Poster__WEBPACK_IMPORTED_MODULE_5__["default"])("".concat(_utils_getParams__WEBPACK_IMPORTED_MODULE_6__["apiUrl"], "/setup-hubs-db"), {});
-        case 2:
-          result = _context3.sent;
-          console.log(result);
-        case 4:
-        case "end":
-          return _context3.stop();
-      }
-    }, _callee3);
-  }));
-  return function setupHubsDatabase() {
-    return _ref3.apply(this, arguments);
-  };
-}();
-var dropDatabase = /*#__PURE__*/function () {
-  var _ref4 = _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1___default()( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2___default.a.mark(function _callee4() {
-    var result;
-    return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2___default.a.wrap(function _callee4$(_context4) {
-      while (1) switch (_context4.prev = _context4.next) {
-        case 0:
-          _context4.next = 2;
-          return Object(_utils_Poster__WEBPACK_IMPORTED_MODULE_5__["default"])("".concat(_utils_getParams__WEBPACK_IMPORTED_MODULE_6__["apiUrl"], "/dropdb"), {});
-        case 2:
-          result = _context4.sent;
-          console.log(result);
-        case 4:
-        case "end":
-          return _context4.stop();
-      }
-    }, _callee4);
-  }));
-  return function dropDatabase() {
-    return _ref4.apply(this, arguments);
-  };
-}();
-if (typeof window !== 'undefined') {
-  window.getRegion = function () {
-    return "US";
-  };
-}
-function Setup() {
-  var _useState = Object(react__WEBPACK_IMPORTED_MODULE_3__["useState"])(true),
-    _useState2 = _babel_runtime_helpers_slicedToArray__WEBPACK_IMPORTED_MODULE_0___default()(_useState, 2),
-    notAvailableModalVisible = _useState2[0],
-    setNotAvailableModalVisible = _useState2[1];
-  var notAvailableModalClose = function notAvailableModalClose() {
-    setNotAvailableModalVisible(false);
-    return true;
-  };
-  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("div", {
-    className: _styles_scss__WEBPACK_IMPORTED_MODULE_4___default.a.wrapper
-  }, notAvailableModalVisible && /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("p", null, "##### SHOW / HIDE #######"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("p", null, "Wellcome to the setup page"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("p", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("button", {
-    onClick: function onClick() {
-      dropDatabase();
-    }
-  }, "!!!!DROP DATABASE")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("p", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("button", {
-    onClick: function onClick() {
-      setupHubsDatabase();
-    }
-  }, "CREATE TWO UNREGISTERED HUBS DATABASE")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("p", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("button", {
-    onClick: function onClick() {
-      setupDatabase();
-    }
-  }, "CREATE DATABASE")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("p", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("button", {
-    onClick: function onClick() {
-      setupFullDatabase();
-    }
-  }, "CREATE AND POPULATE DATABASE")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("button", {
-    onClick: function onClick() {
-      notAvailableModalClose();
-    }
-  }, "SHOW / HIDE"));
-}
-
-/* harmony default export */ __webpack_exports__["default"] = (Setup);
-
-/***/ }),
-
-/***/ "./src/components/Setup/styles.scss":
-/*!******************************************!*\
-  !*** ./src/components/Setup/styles.scss ***!
-  \******************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-// extracted by mini-css-extract-plugin
-module.exports = {"wrapper":"Setup-wrapper--2579Y"};
-
-/***/ }),
-
-/***/ "./src/components/SignIn/index.js":
-/*!****************************************!*\
-  !*** ./src/components/SignIn/index.js ***!
-  \****************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/asyncToGenerator */ "@babel/runtime/helpers/asyncToGenerator");
-/* harmony import */ var _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _babel_runtime_helpers_classCallCheck__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime/helpers/classCallCheck */ "@babel/runtime/helpers/classCallCheck");
-/* harmony import */ var _babel_runtime_helpers_classCallCheck__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_classCallCheck__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _babel_runtime_helpers_createClass__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @babel/runtime/helpers/createClass */ "@babel/runtime/helpers/createClass");
-/* harmony import */ var _babel_runtime_helpers_createClass__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_createClass__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _babel_runtime_helpers_inherits__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @babel/runtime/helpers/inherits */ "@babel/runtime/helpers/inherits");
-/* harmony import */ var _babel_runtime_helpers_inherits__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inherits__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _babel_runtime_helpers_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime/helpers/possibleConstructorReturn */ "@babel/runtime/helpers/possibleConstructorReturn");
-/* harmony import */ var _babel_runtime_helpers_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var _babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime/helpers/getPrototypeOf */ "@babel/runtime/helpers/getPrototypeOf");
-/* harmony import */ var _babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime/regenerator */ "@babel/runtime/regenerator");
-/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_6__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_7__);
-/* harmony import */ var _styles_scss__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./styles.scss */ "./src/components/SignIn/styles.scss");
-/* harmony import */ var _styles_scss__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_styles_scss__WEBPACK_IMPORTED_MODULE_8__);
-/* harmony import */ var _utils_Poster__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../../utils/Poster */ "./src/utils/Poster.js");
-/* harmony import */ var universal_cookie__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! universal-cookie */ "universal-cookie");
-/* harmony import */ var universal_cookie__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(universal_cookie__WEBPACK_IMPORTED_MODULE_10__);
-/* harmony import */ var _utils_getParams__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../../utils/getParams */ "./src/utils/getParams.js");
-/* harmony import */ var _MessagePopup__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../MessagePopup */ "./src/components/MessagePopup/index.js");
-
-
-
-
-
-
-
-function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function _createSuperInternal() { var Super = _babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_5___default()(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = _babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_5___default()(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return _babel_runtime_helpers_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_4___default()(this, result); }; }
-function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Reflect.construct) return false; if (Reflect.construct.sham) return false; if (typeof Proxy === "function") return true; try { Boolean.prototype.valueOf.call(Reflect.construct(Boolean, [], function () {})); return true; } catch (e) { return false; } }
-
-
-
-
-
-
-var SignIn = /*#__PURE__*/function (_Component) {
-  _babel_runtime_helpers_inherits__WEBPACK_IMPORTED_MODULE_3___default()(SignIn, _Component);
-  var _super = _createSuper(SignIn);
-  function SignIn(props) {
-    var _this;
-    _babel_runtime_helpers_classCallCheck__WEBPACK_IMPORTED_MODULE_1___default()(this, SignIn);
-    _this = _super.call(this, props);
-    if (typeof window !== 'undefined') {
-      window.redirect = function (hubId) {
-        location.href = "/home?data=[\"".concat(hubId, "\"]");
-      };
-    }
-    _this.cookies = new universal_cookie__WEBPACK_IMPORTED_MODULE_10___default.a();
-    _this.state = {
-      popupVisible: false,
-      popupMessage: '',
-      logInPopupVisible: true
-    };
-    return _this;
-  }
-  _babel_runtime_helpers_createClass__WEBPACK_IMPORTED_MODULE_2___default()(SignIn, [{
-    key: "closeMessagePopup",
-    value: function closeMessagePopup() {
-      this.setState({
-        popupVisible: !this.state.popupVisible
-      });
-    }
-  }, {
-    key: "showLogInPopup",
-    value: function showLogInPopup() {
-      this.setState({
-        logInPopupVisible: true
-      });
-    }
-  }, {
-    key: "showSignInPopup",
-    value: function showSignInPopup() {
-      this.setState({
-        logInPopupVisible: false
-      });
-    }
-  }, {
-    key: "logIn",
-    value: function () {
-      var _logIn = _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_0___default()( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_6___default.a.mark(function _callee() {
-        var postData, result, user, hubId;
-        return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_6___default.a.wrap(function _callee$(_context) {
-          while (1) switch (_context.prev = _context.next) {
-            case 0:
-              if (!(document.querySelector('input[type="password"][name="password"]').value === '')) {
-                _context.next = 4;
-                break;
-              }
-              this.setState({
-                popupMessage: 'Please enter password!'
-              });
-              this.setState({
-                popupVisible: true
-              });
-              return _context.abrupt("return");
-            case 4:
-              if (!(document.querySelector('input[type="text"][name="email"]').value === '')) {
-                _context.next = 8;
-                break;
-              }
-              this.setState({
-                popupMessage: 'Please enter valid e-mail!'
-              });
-              this.setState({
-                popupVisible: true
-              });
-              return _context.abrupt("return");
-            case 8:
-              postData = {
-                email: document.querySelector('input[type="text"][name="email"]').value,
-                password: document.querySelector('input[type="password"][name="password"]').value
-              };
-              _context.next = 11;
-              return Object(_utils_Poster__WEBPACK_IMPORTED_MODULE_9__["default"])("".concat(_utils_getParams__WEBPACK_IMPORTED_MODULE_11__["userApiUrl"], "/log-in"), postData);
-            case 11:
-              result = _context.sent;
-              if (!(typeof result.error !== 'undefined')) {
-                _context.next = 16;
-                break;
-              }
-              this.setState({
-                popupMessage: result.message
-              });
-              this.setState({
-                popupVisible: true
-              });
-              return _context.abrupt("return");
-            case 16:
-              user = JSON.stringify(result);
-              hubId = result.deviceHubs[0];
-              this.cookies.set('user', user, {
-                path: '/'
-              });
-              //const l = 
-              this.setState({
-                popupMessage: "<p>Welcome!</p><p><button onclick=\"window.redirect('".concat(hubId, "')\">OK</button></p>")
-              });
-              this.setState({
-                popupVisible: true
-              });
-              this.forceUpdate();
-            case 22:
-            case "end":
-              return _context.stop();
-          }
-        }, _callee, this);
-      }));
-      function logIn() {
-        return _logIn.apply(this, arguments);
-      }
-      return logIn;
-    }()
-  }, {
-    key: "registerUser",
-    value: function () {
-      var _registerUser = _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_0___default()( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_6___default.a.mark(function _callee2() {
-        var postData, result, popupMsg;
-        return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_6___default.a.wrap(function _callee2$(_context2) {
-          while (1) switch (_context2.prev = _context2.next) {
-            case 0:
-              if (!(document.querySelector('input[type="password"][name="password"]').value === '')) {
-                _context2.next = 4;
-                break;
-              }
-              this.setState({
-                popupMessage: 'Please enter password!'
-              });
-              this.setState({
-                popupVisible: true
-              });
-              return _context2.abrupt("return");
-            case 4:
-              if (!(document.querySelector('input[type="text"][name="email"]').value === '')) {
-                _context2.next = 8;
-                break;
-              }
-              this.setState({
-                popupMessage: 'Please enter valid e-mail!'
-              });
-              this.setState({
-                popupVisible: true
-              });
-              return _context2.abrupt("return");
-            case 8:
-              if (!(document.querySelector('input[type="text"][name="hubId"]').value === '')) {
-                _context2.next = 12;
-                break;
-              }
-              this.setState({
-                popupMessage: 'Please enter valid hub id!'
-              });
-              this.setState({
-                popupVisible: true
-              });
-              return _context2.abrupt("return");
-            case 12:
-              postData = {
-                email: document.querySelector('input[type="text"][name="email"]').value,
-                password: document.querySelector('input[type="password"][name="password"]').value,
-                hubId: document.querySelector('input[type="text"][name="hubId"]').value
-              };
-              _context2.next = 15;
-              return Object(_utils_Poster__WEBPACK_IMPORTED_MODULE_9__["default"])("".concat(_utils_getParams__WEBPACK_IMPORTED_MODULE_11__["userApiUrl"], "/register-user"), postData);
-            case 15:
-              result = _context2.sent;
-              popupMsg = result.message;
-              if (typeof result.errorCode === 'undefined') {
-                popupMsg += '<p><button onclick="location.reload()">SIGN IN</button></p>';
-              }
-              this.setState({
-                popupMessage: popupMsg
-              });
-              this.setState({
-                popupVisible: true
-              });
-            case 20:
-            case "end":
-              return _context2.stop();
-          }
-        }, _callee2, this);
-      }));
-      function registerUser() {
-        return _registerUser.apply(this, arguments);
-      }
-      return registerUser;
-    }()
-  }, {
-    key: "render",
-    value: function render() {
-      var _this2 = this;
-      return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("div", {
-        className: _styles_scss__WEBPACK_IMPORTED_MODULE_8___default.a.wrapper
-      }, !this.state.logInPopupVisible && /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("div", {
-        className: ['signIn']
-      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("h1", null, "Sign In"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("div", {
-        className: _styles_scss__WEBPACK_IMPORTED_MODULE_8___default.a.userFieldsContainer
-      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("label", null, "User e-mail"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("input", {
-        type: "text",
-        placeholder: "Enter Username",
-        name: "email",
-        required: true
-      }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("label", null, "Password"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("input", {
-        type: "password",
-        placeholder: "Enter Password",
-        name: "password",
-        required: true
-      }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("label", null, "Hub ID"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("input", {
-        type: "text",
-        placeholder: "Enter hub ID",
-        name: "hubId",
-        required: true
-      }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("button", {
-        type: "button",
-        onClick: function onClick() {
-          _this2.registerUser();
-        }
-      }, "REGISTER"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("p", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("a", {
-        href: "#",
-        onClick: function onClick() {
-          _this2.showLogInPopup();
-        }
-      }, "Log In")))), this.state.logInPopupVisible && /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("div", {
-        className: ['LogIn']
-      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("h1", null, "Log In"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("div", {
-        className: _styles_scss__WEBPACK_IMPORTED_MODULE_8___default.a.userFieldsContainer
-      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("label", null, "User e-mail"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("input", {
-        type: "text",
-        placeholder: "Enter Username",
-        name: "email",
-        required: true
-      }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("label", null, "Password"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("input", {
-        type: "password",
-        placeholder: "Enter Password",
-        name: "password",
-        required: true
-      }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("button", {
-        type: "button",
-        onClick: function onClick() {
-          _this2.logIn();
-        }
-      }, "LOG IN"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("p", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("a", {
-        href: "#",
-        onClick: function onClick() {
-          _this2.showSignInPopup();
-        }
-      }, "Sign In")))), this.state.popupVisible && /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement(_MessagePopup__WEBPACK_IMPORTED_MODULE_12__["default"], {
-        msg: this.state.popupMessage,
-        closeMessagePopup: function closeMessagePopup() {
-          return _this2.closeMessagePopup();
-        }
-      }));
-    }
-  }]);
-  return SignIn;
-}(react__WEBPACK_IMPORTED_MODULE_7__["Component"]);
-/* harmony default export */ __webpack_exports__["default"] = (SignIn);
-
-/***/ }),
-
-/***/ "./src/components/SignIn/styles.scss":
-/*!*******************************************!*\
-  !*** ./src/components/SignIn/styles.scss ***!
-  \*******************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-// extracted by mini-css-extract-plugin
-module.exports = {"wrapper":"SignIn-wrapper--mKwZZ","userFieldsContainer":"SignIn-userFieldsContainer--1qHhR"};
-
-/***/ }),
-
-/***/ "./src/components/SignOut/index.js":
-/*!*****************************************!*\
-  !*** ./src/components/SignOut/index.js ***!
-  \*****************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/asyncToGenerator */ "@babel/runtime/helpers/asyncToGenerator");
-/* harmony import */ var _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _babel_runtime_helpers_classCallCheck__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime/helpers/classCallCheck */ "@babel/runtime/helpers/classCallCheck");
-/* harmony import */ var _babel_runtime_helpers_classCallCheck__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_classCallCheck__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _babel_runtime_helpers_createClass__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @babel/runtime/helpers/createClass */ "@babel/runtime/helpers/createClass");
-/* harmony import */ var _babel_runtime_helpers_createClass__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_createClass__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _babel_runtime_helpers_inherits__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @babel/runtime/helpers/inherits */ "@babel/runtime/helpers/inherits");
-/* harmony import */ var _babel_runtime_helpers_inherits__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_inherits__WEBPACK_IMPORTED_MODULE_3__);
-/* harmony import */ var _babel_runtime_helpers_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @babel/runtime/helpers/possibleConstructorReturn */ "@babel/runtime/helpers/possibleConstructorReturn");
-/* harmony import */ var _babel_runtime_helpers_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var _babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @babel/runtime/helpers/getPrototypeOf */ "@babel/runtime/helpers/getPrototypeOf");
-/* harmony import */ var _babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @babel/runtime/regenerator */ "@babel/runtime/regenerator");
-/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_6__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_7__);
-/* harmony import */ var _styles_scss__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./styles.scss */ "./src/components/SignOut/styles.scss");
-/* harmony import */ var _styles_scss__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_styles_scss__WEBPACK_IMPORTED_MODULE_8__);
-/* harmony import */ var _utils_Poster__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../../utils/Poster */ "./src/utils/Poster.js");
-/* harmony import */ var universal_cookie__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! universal-cookie */ "universal-cookie");
-/* harmony import */ var universal_cookie__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(universal_cookie__WEBPACK_IMPORTED_MODULE_10__);
-/* harmony import */ var _utils_getParams__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../../utils/getParams */ "./src/utils/getParams.js");
-/* harmony import */ var _MessagePopup__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../MessagePopup */ "./src/components/MessagePopup/index.js");
-
-
-
-
-
-
-
-function _createSuper(Derived) { var hasNativeReflectConstruct = _isNativeReflectConstruct(); return function _createSuperInternal() { var Super = _babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_5___default()(Derived), result; if (hasNativeReflectConstruct) { var NewTarget = _babel_runtime_helpers_getPrototypeOf__WEBPACK_IMPORTED_MODULE_5___default()(this).constructor; result = Reflect.construct(Super, arguments, NewTarget); } else { result = Super.apply(this, arguments); } return _babel_runtime_helpers_possibleConstructorReturn__WEBPACK_IMPORTED_MODULE_4___default()(this, result); }; }
-function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Reflect.construct) return false; if (Reflect.construct.sham) return false; if (typeof Proxy === "function") return true; try { Boolean.prototype.valueOf.call(Reflect.construct(Boolean, [], function () {})); return true; } catch (e) { return false; } }
-
-
-
-
-
-
-var SignOut = /*#__PURE__*/function (_Component) {
-  _babel_runtime_helpers_inherits__WEBPACK_IMPORTED_MODULE_3___default()(SignOut, _Component);
-  var _super = _createSuper(SignOut);
-  function SignOut(props) {
-    var _this;
-    _babel_runtime_helpers_classCallCheck__WEBPACK_IMPORTED_MODULE_1___default()(this, SignOut);
-    _this = _super.call(this, props);
-    _this.cookies = new universal_cookie__WEBPACK_IMPORTED_MODULE_10___default.a();
-    if (typeof window !== 'undefined') {
-      _this.logOutUser();
-    }
-    _this.state = {
-      popupVisible: false,
-      popupMessage: '',
-      logInPopupVisible: true
-    };
-    return _this;
-  }
-  _babel_runtime_helpers_createClass__WEBPACK_IMPORTED_MODULE_2___default()(SignOut, [{
-    key: "logOutUser",
-    value: function () {
-      var _logOutUser = _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_0___default()( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_6___default.a.mark(function _callee() {
-        var user, postData, result;
-        return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_6___default.a.wrap(function _callee$(_context) {
-          while (1) switch (_context.prev = _context.next) {
-            case 0:
-              // runs only on client side
-              user = this.cookies.get('user');
-              postData = {
-                accessToken: user.accessToken,
-                email: user.email
-              };
-              _context.next = 4;
-              return Object(_utils_Poster__WEBPACK_IMPORTED_MODULE_9__["default"])("".concat(_utils_getParams__WEBPACK_IMPORTED_MODULE_11__["userApiUrl"], "/log-out"), postData);
-            case 4:
-              result = _context.sent;
-              if (!(typeof result.error === 'undefined')) {
-                _context.next = 11;
-                break;
-              }
-              this.cookies = new universal_cookie__WEBPACK_IMPORTED_MODULE_10___default.a();
-              this.cookies.remove('user');
-              this.setState({
-                popupMessage: result.message
-              });
-              this.setState({
-                popupVisible: true
-              });
-              return _context.abrupt("return");
-            case 11:
-            case "end":
-              return _context.stop();
-          }
-        }, _callee, this);
-      }));
-      function logOutUser() {
-        return _logOutUser.apply(this, arguments);
-      }
-      return logOutUser;
-    }()
-  }, {
-    key: "closeMessagePopup",
-    value: function closeMessagePopup() {
-      this.setState({
-        popupVisible: !this.state.popupVisible
-      });
-    }
-  }, {
-    key: "render",
-    value: function render() {
-      var _this2 = this;
-      return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("div", {
-        className: _styles_scss__WEBPACK_IMPORTED_MODULE_8___default.a.wrapper
-      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("div", {
-        className: ['signIn']
-      }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("h1", null, "Bye!")), this.state.popupVisible && /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement(_MessagePopup__WEBPACK_IMPORTED_MODULE_12__["default"], {
-        msg: this.state.popupMessage,
-        closeMessagePopup: function closeMessagePopup() {
-          return _this2.closeMessagePopup();
-        }
-      }));
-    }
-  }]);
-  return SignOut;
-}(react__WEBPACK_IMPORTED_MODULE_7__["Component"]);
-/* harmony default export */ __webpack_exports__["default"] = (SignOut);
-
-/***/ }),
-
-/***/ "./src/components/SignOut/styles.scss":
-/*!********************************************!*\
-  !*** ./src/components/SignOut/styles.scss ***!
-  \********************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-// extracted by mini-css-extract-plugin
-module.exports = {"wrapper":"SignOut-wrapper--2f-jm","userFieldsContainer":"SignOut-userFieldsContainer--mWuR-"};
-
-/***/ }),
-
 /***/ "./src/components/TemperatureBar/index.js":
 /*!************************************************!*\
   !*** ./src/components/TemperatureBar/index.js ***!
@@ -3949,11 +2996,11 @@ __webpack_require__.r(__webpack_exports__);
 /* Components */
 var Header = react_loadable__WEBPACK_IMPORTED_MODULE_0___default()({
   loader: function loader() {
-    return Promise.resolve(/*! import() */).then(__webpack_require__.bind(null, /*! ../../../components/Header */ "./src/components/Header/index.js"));
+    return Promise.resolve(/*! import() */).then(__webpack_require__.bind(null, /*! ../../../pageComponents/Header */ "./src/pageComponents/Header/index.js"));
   },
-  modules: ['../../../components/Header'],
+  modules: ['../../../pageComponents/Header'],
   webpack: function webpack() {
-    return [/*require.resolve*/(/*! ../../../components/Header */ "./src/components/Header/index.js")];
+    return [/*require.resolve*/(/*! ../../../pageComponents/Header */ "./src/pageComponents/Header/index.js")];
   },
   loading: _components_Loading__WEBPACK_IMPORTED_MODULE_1__["default"]
 });
@@ -3969,51 +3016,21 @@ var Home = react_loadable__WEBPACK_IMPORTED_MODULE_0___default()({
 });
 var About = react_loadable__WEBPACK_IMPORTED_MODULE_0___default()({
   loader: function loader() {
-    return Promise.resolve(/*! import() */).then(__webpack_require__.bind(null, /*! ../../../components/About */ "./src/components/About/index.js"));
+    return Promise.resolve(/*! import() */).then(__webpack_require__.bind(null, /*! ../../../pageComponents/About */ "./src/pageComponents/About/index.js"));
   },
-  modules: ['../../../components/About'],
+  modules: ['../../../pageComponents/About'],
   webpack: function webpack() {
-    return [/*require.resolve*/(/*! ../../../components/About */ "./src/components/About/index.js")];
+    return [/*require.resolve*/(/*! ../../../pageComponents/About */ "./src/pageComponents/About/index.js")];
   },
   loading: _components_Loading__WEBPACK_IMPORTED_MODULE_1__["default"]
 });
 var Setup = react_loadable__WEBPACK_IMPORTED_MODULE_0___default()({
   loader: function loader() {
-    return Promise.resolve(/*! import() */).then(__webpack_require__.bind(null, /*! ../../../components/Setup */ "./src/components/Setup/index.js"));
+    return Promise.resolve(/*! import() */).then(__webpack_require__.bind(null, /*! ../../../pageComponents/Setup */ "./src/pageComponents/Setup/index.js"));
   },
-  modules: ['../../../components/Setup'],
+  modules: ['../../../pageComponents/Setup'],
   webpack: function webpack() {
-    return [/*require.resolve*/(/*! ../../../components/Setup */ "./src/components/Setup/index.js")];
-  },
-  loading: _components_Loading__WEBPACK_IMPORTED_MODULE_1__["default"]
-});
-var SignIn = react_loadable__WEBPACK_IMPORTED_MODULE_0___default()({
-  loader: function loader() {
-    return Promise.resolve(/*! import() */).then(__webpack_require__.bind(null, /*! ../../../components/SignIn */ "./src/components/SignIn/index.js"));
-  },
-  modules: ['../../../components/SignIn'],
-  webpack: function webpack() {
-    return [/*require.resolve*/(/*! ../../../components/SignIn */ "./src/components/SignIn/index.js")];
-  },
-  loading: _components_Loading__WEBPACK_IMPORTED_MODULE_1__["default"]
-});
-var SignOut = react_loadable__WEBPACK_IMPORTED_MODULE_0___default()({
-  loader: function loader() {
-    return Promise.resolve(/*! import() */).then(__webpack_require__.bind(null, /*! ../../../components/SignOut */ "./src/components/SignOut/index.js"));
-  },
-  modules: ['../../../components/SignOut'],
-  webpack: function webpack() {
-    return [/*require.resolve*/(/*! ../../../components/SignOut */ "./src/components/SignOut/index.js")];
-  },
-  loading: _components_Loading__WEBPACK_IMPORTED_MODULE_1__["default"]
-});
-var Account = react_loadable__WEBPACK_IMPORTED_MODULE_0___default()({
-  loader: function loader() {
-    return Promise.resolve(/*! import() */).then(__webpack_require__.bind(null, /*! ../../../components/Account */ "./src/components/Account/index.js"));
-  },
-  modules: ['../../../components/Account'],
-  webpack: function webpack() {
-    return [/*require.resolve*/(/*! ../../../components/Account */ "./src/components/Account/index.js")];
+    return [/*require.resolve*/(/*! ../../../pageComponents/Setup */ "./src/pageComponents/Setup/index.js")];
   },
   loading: _components_Loading__WEBPACK_IMPORTED_MODULE_1__["default"]
 });
@@ -4032,9 +3049,6 @@ var Words = react_loadable__WEBPACK_IMPORTED_MODULE_0___default()({
   About: About,
   Setup: Setup,
   Header: Header,
-  SignIn: SignIn,
-  SignOut: SignOut,
-  Account: Account,
   Words: Words
 });
 
@@ -4153,6 +3167,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _PageData__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./PageData */ "./src/containers/PageLayout/PageData/index.js");
 /* harmony import */ var universal_cookie__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! universal-cookie */ "universal-cookie");
 /* harmony import */ var universal_cookie__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(universal_cookie__WEBPACK_IMPORTED_MODULE_8__);
+/* harmony import */ var _styles_scss__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./styles.scss */ "./src/containers/PageLayout/styles.scss");
+/* harmony import */ var _styles_scss__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_styles_scss__WEBPACK_IMPORTED_MODULE_9__);
 
 
 
@@ -4164,7 +3180,7 @@ function _isNativeReflectConstruct() { if (typeof Reflect === "undefined" || !Re
 
 
 
-var styles = __webpack_require__(/*! ./styles.scss */ "./src/containers/PageLayout/styles.scss");
+
 var PageLayout = /*#__PURE__*/function (_Component) {
   _babel_runtime_helpers_inherits__WEBPACK_IMPORTED_MODULE_2___default()(PageLayout, _Component);
   var _super = _createSuper(PageLayout);
@@ -4196,7 +3212,7 @@ var PageLayout = /*#__PURE__*/function (_Component) {
           if (typeof ChildComponent === 'undefined') {
             return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
               key: "{id}",
-              className: styles.error
+              className: _styles_scss__WEBPACK_IMPORTED_MODULE_9___default.a.error
             }, "Can't find ", componentName, " component!");
           }
           return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(ChildComponent, {
@@ -4207,7 +3223,7 @@ var PageLayout = /*#__PURE__*/function (_Component) {
         return layout;
       });
       return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
-        className: styles.app
+        className: _styles_scss__WEBPACK_IMPORTED_MODULE_9___default.a.app
       }, allLayout);
     }
   }]);
@@ -4226,6 +3242,281 @@ var PageLayout = /*#__PURE__*/function (_Component) {
 
 // extracted by mini-css-extract-plugin
 module.exports = {"error":"PageLayout-error--1JXBd","wrapper":"PageLayout-wrapper--2x-cs"};
+
+/***/ }),
+
+/***/ "./src/pageComponents/About/index.js":
+/*!*******************************************!*\
+  !*** ./src/pageComponents/About/index.js ***!
+  \*******************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _styles_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./styles.scss */ "./src/pageComponents/About/styles.scss");
+/* harmony import */ var _styles_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_scss__WEBPACK_IMPORTED_MODULE_1__);
+
+
+function About() {
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: _styles_scss__WEBPACK_IMPORTED_MODULE_1___default.a.wrapper
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, "this is the about Page component"));
+}
+/* harmony default export */ __webpack_exports__["default"] = (About);
+
+/***/ }),
+
+/***/ "./src/pageComponents/About/styles.scss":
+/*!**********************************************!*\
+  !*** ./src/pageComponents/About/styles.scss ***!
+  \**********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
+module.exports = {"wrapper":"About-wrapper--1aIKg"};
+
+/***/ }),
+
+/***/ "./src/pageComponents/Header/index.js":
+/*!********************************************!*\
+  !*** ./src/pageComponents/Header/index.js ***!
+  \********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react-router-dom */ "react-router-dom");
+/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_router_dom__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _styles_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./styles.scss */ "./src/pageComponents/Header/styles.scss");
+/* harmony import */ var _styles_scss__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_styles_scss__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _components_GeneralPopup__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../components/GeneralPopup */ "./src/components/GeneralPopup/index.js");
+/* harmony import */ var _containers_EventsManager__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../containers/EventsManager */ "./src/containers/EventsManager/index.js");
+
+
+
+
+
+var selectedFlagsList = [];
+var getSelectedList = function getSelectedList() {
+  return selectedFlagsList;
+};
+var setSelectedList = function setSelectedList(id) {
+  selectedFlagsList[id] = true;
+};
+var unsetSelectedList = function unsetSelectedList(id) {
+  delete selectedFlagsList[id];
+};
+_containers_EventsManager__WEBPACK_IMPORTED_MODULE_4__["default"].registerEvent('getSelectedList', getSelectedList);
+_containers_EventsManager__WEBPACK_IMPORTED_MODULE_4__["default"].registerEvent('setSelectedList', setSelectedList);
+_containers_EventsManager__WEBPACK_IMPORTED_MODULE_4__["default"].registerEvent('unsetSelectedList', unsetSelectedList);
+var Header = function Header(_ref) {
+  var title = _ref.title;
+  var _useLocation = Object(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["useLocation"])(),
+    search = _useLocation.search;
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: _styles_scss__WEBPACK_IMPORTED_MODULE_2___default.a.wrapper
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Link"], {
+    to: "/home".concat(search)
+  }, "DEVICES")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Link"], {
+    to: "/account".concat(search)
+  }, "ACCOUNT")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Link"], {
+    to: "/setup".concat(search)
+  }, "SETTINGS")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Link"], {
+    to: "/about".concat(search)
+  }, "ABOUT")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_1__["Link"], {
+    to: "/sign-out".concat(search)
+  }, "SIGN OUT")))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_GeneralPopup__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    showPopup: false
+  }));
+};
+/* harmony default export */ __webpack_exports__["default"] = (Header);
+
+/***/ }),
+
+/***/ "./src/pageComponents/Header/styles.scss":
+/*!***********************************************!*\
+  !*** ./src/pageComponents/Header/styles.scss ***!
+  \***********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
+module.exports = {"wrapper":"Header-wrapper--nW6hI","active":"Header-active--8ICQ-"};
+
+/***/ }),
+
+/***/ "./src/pageComponents/Setup/index.js":
+/*!*******************************************!*\
+  !*** ./src/pageComponents/Setup/index.js ***!
+  \*******************************************/
+/*! exports provided: Setup, default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Setup", function() { return Setup; });
+/* harmony import */ var _babel_runtime_helpers_slicedToArray__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime/helpers/slicedToArray */ "@babel/runtime/helpers/slicedToArray");
+/* harmony import */ var _babel_runtime_helpers_slicedToArray__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_slicedToArray__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @babel/runtime/helpers/asyncToGenerator */ "@babel/runtime/helpers/asyncToGenerator");
+/* harmony import */ var _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @babel/runtime/regenerator */ "@babel/runtime/regenerator");
+/* harmony import */ var _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _styles_scss__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./styles.scss */ "./src/pageComponents/Setup/styles.scss");
+/* harmony import */ var _styles_scss__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_styles_scss__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _utils_Poster__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../utils/Poster */ "./src/utils/Poster.js");
+/* harmony import */ var _utils_getParams__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../utils/getParams */ "./src/utils/getParams.js");
+
+
+
+
+
+
+
+var setupFullDatabase = /*#__PURE__*/function () {
+  var _ref = _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1___default()( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2___default.a.mark(function _callee() {
+    var result;
+    return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2___default.a.wrap(function _callee$(_context) {
+      while (1) switch (_context.prev = _context.next) {
+        case 0:
+          _context.next = 2;
+          return Object(_utils_Poster__WEBPACK_IMPORTED_MODULE_5__["default"])("".concat(_utils_getParams__WEBPACK_IMPORTED_MODULE_6__["apiUrl"], "/setup-full"), {});
+        case 2:
+          result = _context.sent;
+          console.log(result);
+        case 4:
+        case "end":
+          return _context.stop();
+      }
+    }, _callee);
+  }));
+  return function setupFullDatabase() {
+    return _ref.apply(this, arguments);
+  };
+}();
+var setupDatabase = /*#__PURE__*/function () {
+  var _ref2 = _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1___default()( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2___default.a.mark(function _callee2() {
+    var result;
+    return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2___default.a.wrap(function _callee2$(_context2) {
+      while (1) switch (_context2.prev = _context2.next) {
+        case 0:
+          _context2.next = 2;
+          return Object(_utils_Poster__WEBPACK_IMPORTED_MODULE_5__["default"])("".concat(_utils_getParams__WEBPACK_IMPORTED_MODULE_6__["apiUrl"], "/setup"), {});
+        case 2:
+          result = _context2.sent;
+          console.log(result);
+        case 4:
+        case "end":
+          return _context2.stop();
+      }
+    }, _callee2);
+  }));
+  return function setupDatabase() {
+    return _ref2.apply(this, arguments);
+  };
+}();
+var setupHubsDatabase = /*#__PURE__*/function () {
+  var _ref3 = _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1___default()( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2___default.a.mark(function _callee3() {
+    var result;
+    return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2___default.a.wrap(function _callee3$(_context3) {
+      while (1) switch (_context3.prev = _context3.next) {
+        case 0:
+          _context3.next = 2;
+          return Object(_utils_Poster__WEBPACK_IMPORTED_MODULE_5__["default"])("".concat(_utils_getParams__WEBPACK_IMPORTED_MODULE_6__["apiUrl"], "/setup-hubs-db"), {});
+        case 2:
+          result = _context3.sent;
+          console.log(result);
+        case 4:
+        case "end":
+          return _context3.stop();
+      }
+    }, _callee3);
+  }));
+  return function setupHubsDatabase() {
+    return _ref3.apply(this, arguments);
+  };
+}();
+var dropDatabase = /*#__PURE__*/function () {
+  var _ref4 = _babel_runtime_helpers_asyncToGenerator__WEBPACK_IMPORTED_MODULE_1___default()( /*#__PURE__*/_babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2___default.a.mark(function _callee4() {
+    var result;
+    return _babel_runtime_regenerator__WEBPACK_IMPORTED_MODULE_2___default.a.wrap(function _callee4$(_context4) {
+      while (1) switch (_context4.prev = _context4.next) {
+        case 0:
+          _context4.next = 2;
+          return Object(_utils_Poster__WEBPACK_IMPORTED_MODULE_5__["default"])("".concat(_utils_getParams__WEBPACK_IMPORTED_MODULE_6__["apiUrl"], "/dropdb"), {});
+        case 2:
+          result = _context4.sent;
+          console.log(result);
+        case 4:
+        case "end":
+          return _context4.stop();
+      }
+    }, _callee4);
+  }));
+  return function dropDatabase() {
+    return _ref4.apply(this, arguments);
+  };
+}();
+if (typeof window !== 'undefined') {
+  window.getRegion = function () {
+    return "US";
+  };
+}
+function Setup() {
+  var _useState = Object(react__WEBPACK_IMPORTED_MODULE_3__["useState"])(true),
+    _useState2 = _babel_runtime_helpers_slicedToArray__WEBPACK_IMPORTED_MODULE_0___default()(_useState, 2),
+    notAvailableModalVisible = _useState2[0],
+    setNotAvailableModalVisible = _useState2[1];
+  var notAvailableModalClose = function notAvailableModalClose() {
+    setNotAvailableModalVisible(false);
+    return true;
+  };
+  return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("div", {
+    className: _styles_scss__WEBPACK_IMPORTED_MODULE_4___default.a.wrapper
+  }, notAvailableModalVisible && /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("p", null, "##### SHOW / HIDE #######"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("p", null, "Wellcome to the setup page"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("p", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("button", {
+    onClick: function onClick() {
+      dropDatabase();
+    }
+  }, "!!!!DROP DATABASE")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("p", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("button", {
+    onClick: function onClick() {
+      setupHubsDatabase();
+    }
+  }, "CREATE TWO UNREGISTERED HUBS DATABASE")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("p", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("button", {
+    onClick: function onClick() {
+      setupDatabase();
+    }
+  }, "CREATE DATABASE")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("p", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("button", {
+    onClick: function onClick() {
+      setupFullDatabase();
+    }
+  }, "CREATE AND POPULATE DATABASE")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement("button", {
+    onClick: function onClick() {
+      notAvailableModalClose();
+    }
+  }, "SHOW / HIDE"));
+}
+
+/* harmony default export */ __webpack_exports__["default"] = (Setup);
+
+/***/ }),
+
+/***/ "./src/pageComponents/Setup/styles.scss":
+/*!**********************************************!*\
+  !*** ./src/pageComponents/Setup/styles.scss ***!
+  \**********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
+module.exports = {"wrapper":"Setup-wrapper--3PMJK"};
 
 /***/ }),
 
@@ -5138,8 +4429,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _src_components_App__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./src/components/App */ "./src/components/App/index.js");
 /* harmony import */ var react_loadable__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! react-loadable */ "react-loadable");
 /* harmony import */ var react_loadable__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(react_loadable__WEBPACK_IMPORTED_MODULE_8__);
-/* harmony import */ var _dist_loadable_manifest_json__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./dist/loadable-manifest.json */ "./dist/loadable-manifest.json");
-var _dist_loadable_manifest_json__WEBPACK_IMPORTED_MODULE_9___namespace = /*#__PURE__*/__webpack_require__.t(/*! ./dist/loadable-manifest.json */ "./dist/loadable-manifest.json", 1);
+/* harmony import */ var _dist_loadable_manifest_json__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! ./dist/loadable-manifest.json */ "./dist/loadable-manifest.json");
+var _dist_loadable_manifest_json__WEBPACK_IMPORTED_MODULE_20___namespace = /*#__PURE__*/__webpack_require__.t(/*! ./dist/loadable-manifest.json */ "./dist/loadable-manifest.json", 1);
 /* harmony import */ var react_loadable_webpack__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! react-loadable/webpack */ "react-loadable/webpack");
 /* harmony import */ var react_loadable_webpack__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(react_loadable_webpack__WEBPACK_IMPORTED_MODULE_10__);
 /* harmony import */ var react_dom_server__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! react-dom/server */ "react-dom/server");
@@ -5239,7 +4530,7 @@ function responseWithSourceCode(req, res, apiData, templateName) {
   })));
 
   // Extract CSS and JS bundles
-  var bundles = Object(react_loadable_webpack__WEBPACK_IMPORTED_MODULE_10__["getBundles"])(_dist_loadable_manifest_json__WEBPACK_IMPORTED_MODULE_9__, modules);
+  var bundles = Object(react_loadable_webpack__WEBPACK_IMPORTED_MODULE_10__["getBundles"])(_dist_loadable_manifest_json__WEBPACK_IMPORTED_MODULE_20__, modules);
   var cssBundles = bundles.filter(function (bundle) {
     return bundle && bundle.file.split('.').pop() === 'css';
   });

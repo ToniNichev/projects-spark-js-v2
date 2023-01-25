@@ -3,7 +3,7 @@ import Loading from '../../../components/Loading';
 
 /* Components */
 const Header = Loadable({
-  loader: () => import ('../../../components/Header'),
+  loader: () => import ('../../../pageComponents/Header'),
   loading: Loading
 });
 const Home = Loadable({
@@ -11,23 +11,11 @@ const Home = Loadable({
   loading: Loading
 });
 const About = Loadable({
-  loader: () => import ('../../../components/About'),
+  loader: () => import ('../../../pageComponents/About'),
   loading: Loading
 });
 const Setup = Loadable({
-  loader: () => import ('../../../components/Setup'),
-  loading: Loading
-});
-const SignIn = Loadable({
-  loader: () => import ('../../../components/SignIn'),
-  loading: Loading
-});
-const SignOut = Loadable({
-  loader: () => import ('../../../components/SignOut'),
-  loading: Loading
-});
-const Account = Loadable({
-  loader: () => import ('../../../components/Account'),
+  loader: () => import ('../../../pageComponents/Setup'),
   loading: Loading
 });
 const Words = Loadable({
@@ -40,8 +28,5 @@ export default {
   About,
   Setup,
   Header,
-  SignIn,
-  SignOut,
-  Account,
   Words
 }
