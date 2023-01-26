@@ -10,6 +10,7 @@ class PageLayout extends Component {
       super(props);    
       this.cookies = new Cookies();
       this.user = null;
+      this.wrapperGroup = 0;
     } 
   
     render() {      
@@ -25,8 +26,11 @@ class PageLayout extends Component {
       const page = PageData[url];
       const template = page.template || "template-not-found";
 
+      
+
       const allLayout = page.layout.map((layoutList) => {
-        const span = layoutList.span;
+        let componentCount = 0;
+        const span = layoutList.span;        
         const layout = layoutList.components.map((component, id , components) => {          
           const componentName = component.name;    
           const props = component.props;    
@@ -40,7 +44,14 @@ class PageLayout extends Component {
               <ChildComponent key={componentName} props={props} />
           );
         });
-        return layout;
+        const wrapperKeyStr = `wrapper_${this.wrapperGroup}_componentCount`;
+        const spanWidth = span[componentCount];
+        componentCount ++;
+        this.wrapperGroup ++;              
+        return (
+          <div className={styles.wrapper} key={wrapperKeyStr}>
+            {layout}
+          </div>);
       });
       return(
         <div className={styles.app}>

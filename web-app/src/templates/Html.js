@@ -42,7 +42,7 @@ const Html = ({ content, cssBundles, jsBundles, apiData }) => (
           __html: `window.__API_DATA__=${JSON.stringify(apiData)}`}} />    
        
   </head>
-  <body cz-shortcut-listen="true">
+  <body>
     <div id="root" dangerouslySetInnerHTML={{ __html: content }} />  
     <script src={`${publicPath}main-bundle.js`}></script>
   </body>

@@ -26,7 +26,7 @@ export default {
     template: "Html",              
     layout: [ 
       {
-        span: 12,
+        span: [0],
         components: [
           {
             name: "Header",
@@ -35,7 +35,7 @@ export default {
         ]
       },
       {
-        span: 12,
+        span: [60,40],
         components:[
           {
             name: "Words",
