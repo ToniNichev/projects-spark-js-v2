@@ -46,6 +46,7 @@ class PageLayout extends Component {
         });
         const wrapperKeyStr = `wrapper_${this.wrapperGroup}_componentCount`;
         const spanWidth = span[componentCount];
+        console.log(">>>>>>", spanWidth[1]);
         componentCount ++;
         this.wrapperGroup ++;              
         return (

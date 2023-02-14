@@ -35,7 +35,7 @@ export default {
         ]
       },
       {
-        span: [60,40],
+        span: [70,30],
         components:[
           {
             name: "Words",

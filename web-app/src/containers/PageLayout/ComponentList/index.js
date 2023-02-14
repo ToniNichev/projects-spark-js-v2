@@ -1,5 +1,5 @@
 import Loadable from 'react-loadable';
-import Loading from '../../../components/Loading';
+import Loading from '../../../pageComponents/Loading';
 
 /* Components */
 const Header = Loadable({
