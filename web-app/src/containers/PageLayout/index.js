@@ -35,22 +35,28 @@ class PageLayout extends Component {
           const componentName = component.name;    
           const props = component.props;    
           const ChildComponent = ComponentList[componentName];
+          const style = component.style;
+          
           if(typeof ChildComponent === 'undefined') {
             return(
               <div key='{id}' className={styles.error}>Can't find {componentName} component!</div>
             );
           }
           return (
-              <ChildComponent key={componentName} props={props} />
+              <div style={style} data-span="123" key={componentName} props={props}>
+                <ChildComponent/>
+              </div>
           );
         });
-        const wrapperKeyStr = `wrapper_${this.wrapperGroup}_componentCount`;
-        const spanWidth = span[componentCount];
-        console.log(">>>>>>", spanWidth[1]);
+        const wrapperKeyStr = `wrapper_${this.wrapperGroup}_{componentCount}`;
+        //const spanWidth = span[componentCount];
+
+        const wrapperStyle = {}
         componentCount ++;
-        this.wrapperGroup ++;              
+        this.wrapperGroup ++;    
+       
         return (
-          <div className={styles.wrapper} key={wrapperKeyStr}>
+          <div data-test={span} style={wrapperStyle} className={styles.wrapper} key={wrapperKeyStr}>
             {layout}
           </div>);
       });

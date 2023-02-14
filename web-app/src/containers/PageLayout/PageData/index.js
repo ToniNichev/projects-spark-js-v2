@@ -3,7 +3,10 @@ export default {
     template: "Html",    
     layout: [ 
       {
-        span: 12,
+        span: [12],
+        style: {
+          display: "block"
+        },        
         components: [
           {
             name: "Header",
@@ -13,6 +16,9 @@ export default {
       },
       {
         span: 12,
+        style: {
+          display: "block"
+        },        
         components:[
           {
             name: "About",
@@ -27,6 +33,9 @@ export default {
     layout: [ 
       {
         span: [0],
+        style: {
+          display: "block"
+        },
         components: [
           {
             name: "Header",
@@ -36,14 +45,23 @@ export default {
       },
       {
         span: [70,30],
+        style: {
+          display: "block"
+        },
         components:[
           {
             name: "Words",
-            props: {}
+            props: {},
+            style: {
+              width: '80%'
+            }
           },
           {
             name: "LeftRail",
-            props: {}
+            props: {},
+            style: {
+              width: '20%'
+            }            
           },          
         ] 
       },        
