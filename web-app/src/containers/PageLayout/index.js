@@ -31,6 +31,7 @@ class PageLayout extends Component {
       const allLayout = page.layout.map((layoutList) => {
         let componentCount = 0;
         const span = layoutList.span;        
+        const wrapperStyle = layoutList.style;
         const layout = layoutList.components.map((component, id , components) => {          
           const componentName = component.name;    
           const props = component.props;    
@@ -51,7 +52,6 @@ class PageLayout extends Component {
         const wrapperKeyStr = `wrapper_${this.wrapperGroup}_{componentCount}`;
         //const spanWidth = span[componentCount];
 
-        const wrapperStyle = {}
         componentCount ++;
         this.wrapperGroup ++;    
        

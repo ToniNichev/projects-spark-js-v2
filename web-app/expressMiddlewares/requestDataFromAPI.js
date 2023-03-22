@@ -32,8 +32,8 @@ const requestDataFromAPI = async (req, res, usersData, next) => {
   req.template = PageData[req.pathname]?.template || null;
   req.parsedQs = querystring.parse(req.parsedUrl.query);
   req.apiData = {};
-  
-  next();
+  if(typeof next === 'function')
+    next();
 
 }
 

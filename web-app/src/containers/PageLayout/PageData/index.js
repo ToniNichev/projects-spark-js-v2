@@ -46,7 +46,7 @@ export default {
       {
         span: [70,30],
         style: {
-          display: "block"
+          display: "flex"
         },
         components:[
           {
