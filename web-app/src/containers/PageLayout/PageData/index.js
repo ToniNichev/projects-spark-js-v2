@@ -34,7 +34,8 @@ export default {
       {
         span: [0],
         style: {
-          display: "block"
+          display: "block",
+          border: "10px solid red",
         },
         components: [
           {

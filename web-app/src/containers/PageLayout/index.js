@@ -44,7 +44,7 @@ class PageLayout extends Component {
             );
           }
           return (
-              <div style={style} data-span="123" key={componentName} props={props}>
+              <div style={style} data-main="true" key={componentName} props={props}>
                 <ChildComponent/>
               </div>
           );
